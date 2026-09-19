@@ -1,0 +1,5002 @@
+[
+  {
+    "record_id": 1,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "Asia FX Forwards",
+    "prev_month_value": 39.9,
+    "current_month_value": 26.0,
+    "difference": -13.9,
+    "commentary": "$7.4 million adverse impact for Northstar Energy from portfolio unwind, with USD 6.5m attributable to Summit Retail following volatility repricing."
+  },
+  {
+    "record_id": 2,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "UK Commercial Real Estate",
+    "prev_month_value": 16.4,
+    "current_month_value": 4.3,
+    "difference": -12.1,
+    "commentary": "$8.2 million adverse impact for Orion Holdings from new trade activity, with $3.9m attributable to Northstar Energy following collateral movement."
+  },
+  {
+    "record_id": 3,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "EMEA Corporates",
+    "prev_month_value": -19.9,
+    "current_month_value": -30.5,
+    "difference": -10.6,
+    "commentary": "$6.3 million adverse impact for Orion Holdings from model reserve recalibration, with $4.3 million attributable to Apex Infrastructure following discount curve move."
+  },
+  {
+    "record_id": 4,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "North America",
+    "prev_month_value": -31.0,
+    "current_month_value": -36.5,
+    "difference": -5.5,
+    "commentary": "$3.3 million adverse impact for Summit Retail from volatility repricing, with $2.2 million attributable to Bluewater Shipping following volatility repricing."
+  },
+  {
+    "record_id": 5,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Counterparty Credit Risk",
+    "prev_month_value": 6.0,
+    "current_month_value": -4.1,
+    "difference": -10.1,
+    "commentary": "5.7m adverse impact for Bluewater Shipping from portfolio unwind, with $4.4m attributable to Northstar Energy following collateral movement."
+  },
+  {
+    "record_id": 6,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "USD Swaptions",
+    "prev_month_value": -18.2,
+    "current_month_value": -2.6,
+    "difference": 15.6,
+    "commentary": "10.5m favourable impact for Helios Manufacturing from discount curve move, with $5.1m attributable to Vantage Media following discount curve move."
+  },
+  {
+    "record_id": 7,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": -9.3,
+    "current_month_value": -16.0,
+    "difference": -6.7,
+    "commentary": "$3.7m adverse impact for Acme Corp from wider credit spreads, with USD 3m attributable to Cedar Healthcare following model reserve recalibration."
+  },
+  {
+    "record_id": 8,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": 7.6,
+    "current_month_value": 5.4,
+    "difference": -2.2,
+    "commentary": "$1.3 million adverse impact for Meridian Telecom from wider credit spreads, with 0.9m attributable to Orion Holdings following volatility repricing."
+  },
+  {
+    "record_id": 9,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": -37.3,
+    "current_month_value": -34.1,
+    "difference": 3.2,
+    "commentary": "USD 1.9m favourable impact for Harbor Aviation from wider credit spreads, with $1.3m attributable to Northstar Energy following collateral movement."
+  },
+  {
+    "record_id": 10,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "Asia Exotics",
+    "prev_month_value": -8.0,
+    "current_month_value": -9.1,
+    "difference": -1.1,
+    "commentary": "USD 0.7m adverse impact for Helios Manufacturing from tighter credit spreads, with USD 0.4m attributable to Orion Holdings following wider credit spreads."
+  },
+  {
+    "record_id": 11,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "Asia Pacific Corporates",
+    "prev_month_value": -39.5,
+    "current_month_value": -24.5,
+    "difference": 15.0,
+    "commentary": "8.3m favourable impact for Vantage Media from portfolio unwind, with $6.7 million attributable to Helios Manufacturing following tighter credit spreads."
+  },
+  {
+    "record_id": 12,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "EMEA Corporates",
+    "prev_month_value": -39.7,
+    "current_month_value": -50.6,
+    "difference": -10.9,
+    "commentary": "$7.3m adverse impact for Harbor Aviation from market data correction, with $3.6m attributable to Meridian Telecom following discount curve move."
+  },
+  {
+    "record_id": 13,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "GBP Rates",
+    "prev_month_value": 6.0,
+    "current_month_value": -6.6,
+    "difference": -12.6,
+    "commentary": "USD 7.2m adverse impact for Summit Retail from tighter credit spreads, with USD 5.4m attributable to Redwood Logistics following new trade activity."
+  },
+  {
+    "record_id": 14,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "Asia Exotics",
+    "prev_month_value": -14.7,
+    "current_month_value": -15.4,
+    "difference": -0.7,
+    "commentary": "$0.4 million adverse impact for Acme Corp from new trade activity, with USD 0.3m attributable to Redwood Logistics following collateral movement."
+  },
+  {
+    "record_id": 15,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "US Real Estate",
+    "prev_month_value": 32.8,
+    "current_month_value": 25.8,
+    "difference": -7.0,
+    "commentary": "USD 4.4 million adverse impact for Redwood Logistics from ratings migration, with USD 2.6m attributable to Bluewater Shipping following discount curve move."
+  },
+  {
+    "record_id": 16,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "Asia Exotics",
+    "prev_month_value": 39.7,
+    "current_month_value": 52.8,
+    "difference": 13.1,
+    "commentary": "7m favourable impact for Apex Infrastructure from tighter credit spreads, with 6.1m attributable to Bluewater Shipping following discount curve move."
+  },
+  {
+    "record_id": 17,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "Investment Grade CDS",
+    "prev_month_value": -5.5,
+    "current_month_value": 4.2,
+    "difference": 9.7,
+    "commentary": "USD 5.5m favourable impact for Northstar Energy from wider credit spreads, with USD 4.2 million attributable to Acme Corp following market data correction."
+  },
+  {
+    "record_id": 18,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "USD Swaptions",
+    "prev_month_value": -9.5,
+    "current_month_value": -16.4,
+    "difference": -6.9,
+    "commentary": "USD 4.5 million adverse impact for Redwood Logistics from market data correction, with $2.4 million attributable to Vantage Media following ratings migration."
+  },
+  {
+    "record_id": 19,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "US Equity Financing",
+    "prev_month_value": 16.8,
+    "current_month_value": 13.3,
+    "difference": -3.5,
+    "commentary": "$2.1 million adverse impact for Redwood Logistics from new trade activity, with $1.4m attributable to Apex Infrastructure following ratings migration."
+  },
+  {
+    "record_id": 20,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "UK Commercial Real Estate",
+    "prev_month_value": -35.1,
+    "current_month_value": -30.4,
+    "difference": 4.7,
+    "commentary": "2.6m favourable impact for Apex Infrastructure from ratings migration, with USD 2.1m attributable to Harbor Aviation following tighter credit spreads."
+  },
+  {
+    "record_id": 21,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "EMEA Structured FX",
+    "prev_month_value": -12.6,
+    "current_month_value": -24.9,
+    "difference": -12.3,
+    "commentary": "USD 7.9m adverse impact for Helios Manufacturing from tighter credit spreads, with $4.4 million attributable to Acme Corp following model reserve recalibration."
+  },
+  {
+    "record_id": 22,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "USD Swaptions",
+    "prev_month_value": -7.9,
+    "current_month_value": -23.9,
+    "difference": -16.0,
+    "commentary": "$8.9m adverse impact for Acme Corp from discount curve move, with USD 7.1 million attributable to Redwood Logistics following market data correction."
+  },
+  {
+    "record_id": 23,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "US Pension Fund",
+    "prev_month_value": -39.1,
+    "current_month_value": -51.6,
+    "difference": -12.5,
+    "commentary": "USD 8.1m adverse impact for Redwood Logistics from volatility repricing, with $4.4 million attributable to Summit Retail following wider credit spreads."
+  },
+  {
+    "record_id": 24,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": -27.1,
+    "current_month_value": -33.5,
+    "difference": -6.4,
+    "commentary": "USD 3.7m adverse impact for Apex Infrastructure from wider credit spreads, with 2.7m attributable to Northstar Energy following volatility repricing."
+  },
+  {
+    "record_id": 25,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "Investment Grade CDS",
+    "prev_month_value": 18.7,
+    "current_month_value": 14.5,
+    "difference": -4.2,
+    "commentary": "$2.7 million adverse impact for Acme Corp from discount curve move, with $1.5 million attributable to Cedar Healthcare following volatility repricing."
+  },
+  {
+    "record_id": 26,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": -22.3,
+    "current_month_value": -31.2,
+    "difference": -8.9,
+    "commentary": "$5.9m adverse impact for Cedar Healthcare from ratings migration, with USD 3 million attributable to Vantage Media following wider credit spreads."
+  },
+  {
+    "record_id": 27,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Counterparty Credit Risk",
+    "prev_month_value": -37.4,
+    "current_month_value": -50.0,
+    "difference": -12.6,
+    "commentary": "$6.7m adverse impact for Redwood Logistics from model reserve recalibration, with $5.9m attributable to Helios Manufacturing following model reserve recalibration."
+  },
+  {
+    "record_id": 28,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": -22.4,
+    "current_month_value": -19.3,
+    "difference": 3.1,
+    "commentary": "$1.6m favourable impact for Redwood Logistics from new trade activity, with USD 1.5 million attributable to Helios Manufacturing following market data correction."
+  },
+  {
+    "record_id": 29,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "USD Swaptions",
+    "prev_month_value": -22.9,
+    "current_month_value": -39.0,
+    "difference": -16.1,
+    "commentary": "USD 10.3 million adverse impact for Meridian Telecom from collateral movement, with $5.8 million attributable to Northstar Energy following new trade activity."
+  },
+  {
+    "record_id": 30,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": -7.5,
+    "current_month_value": -10.3,
+    "difference": -2.8,
+    "commentary": "1.8m adverse impact for Acme Corp from market data correction, with $1m attributable to Summit Retail following tighter credit spreads."
+  },
+  {
+    "record_id": 31,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "US Pension Fund",
+    "prev_month_value": -33.2,
+    "current_month_value": -43.1,
+    "difference": -9.9,
+    "commentary": "5.9m adverse impact for Harbor Aviation from portfolio unwind, with 4m attributable to Redwood Logistics following ratings migration."
+  },
+  {
+    "record_id": 32,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Term Funding",
+    "prev_month_value": -4.3,
+    "current_month_value": 9.9,
+    "difference": 14.2,
+    "commentary": "8.1m favourable impact for Northstar Energy from collateral movement, with USD 6.1 million attributable to Bluewater Shipping following wider credit spreads."
+  },
+  {
+    "record_id": 33,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "Asia Exotics",
+    "prev_month_value": -15.6,
+    "current_month_value": -25.5,
+    "difference": -9.9,
+    "commentary": "$5.7 million adverse impact for Vantage Media from tighter credit spreads, with 4.2m attributable to Helios Manufacturing following market data correction."
+  },
+  {
+    "record_id": 34,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": -28.0,
+    "current_month_value": -18.7,
+    "difference": 9.3,
+    "commentary": "$5.4m favourable impact for Helios Manufacturing from collateral movement, with $3.9m attributable to Harbor Aviation following collateral movement."
+  },
+  {
+    "record_id": 35,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": -2.1,
+    "current_month_value": 8.2,
+    "difference": 10.3,
+    "commentary": "USD 6.5m favourable impact for Vantage Media from volatility repricing, with $3.8m attributable to Helios Manufacturing following discount curve move."
+  },
+  {
+    "record_id": 36,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Capital Valuation Adjustment",
+    "prev_month_value": -2.6,
+    "current_month_value": -3.4,
+    "difference": -0.8,
+    "commentary": "0.5m adverse impact for Helios Manufacturing from wider credit spreads, with USD 0.3 million attributable to Redwood Logistics following wider credit spreads."
+  },
+  {
+    "record_id": 37,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "North America Loans",
+    "prev_month_value": -10.0,
+    "current_month_value": -18.1,
+    "difference": -8.1,
+    "commentary": "$4.9m adverse impact for Summit Retail from portfolio unwind, with $3.2 million attributable to Redwood Logistics following ratings migration."
+  },
+  {
+    "record_id": 38,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "North America Loans",
+    "prev_month_value": -12.4,
+    "current_month_value": -19.5,
+    "difference": -7.1,
+    "commentary": "3.8m adverse impact for Vantage Media from model reserve recalibration, with 3.3m attributable to Summit Retail following model reserve recalibration."
+  },
+  {
+    "record_id": 39,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": 35.6,
+    "current_month_value": 44.3,
+    "difference": 8.7,
+    "commentary": "$4.7m favourable impact for Harbor Aviation from ratings migration, with 4m attributable to Orion Holdings following ratings migration."
+  },
+  {
+    "record_id": 40,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "Emerging Markets Rates",
+    "prev_month_value": -8.8,
+    "current_month_value": 4.1,
+    "difference": 12.9,
+    "commentary": "$8.3 million favourable impact for Northstar Energy from ratings migration, with USD 4.6m attributable to Bluewater Shipping following tighter credit spreads."
+  },
+  {
+    "record_id": 41,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Liquidity Portfolio",
+    "prev_month_value": -3.6,
+    "current_month_value": -0.8,
+    "difference": 2.8,
+    "commentary": "$1.9m favourable impact for Northstar Energy from volatility repricing, with 0.9m attributable to Acme Corp following volatility repricing."
+  },
+  {
+    "record_id": 42,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Term Funding",
+    "prev_month_value": -23.8,
+    "current_month_value": -37.8,
+    "difference": -14.0,
+    "commentary": "$9.2 million adverse impact for Harbor Aviation from model reserve recalibration, with $4.8m attributable to Meridian Telecom following collateral movement."
+  },
+  {
+    "record_id": 43,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "High Yield CDS",
+    "prev_month_value": -14.1,
+    "current_month_value": -17.2,
+    "difference": -3.1,
+    "commentary": "USD 1.8m adverse impact for Apex Infrastructure from market data correction, with 1.3m attributable to Vantage Media following discount curve move."
+  },
+  {
+    "record_id": 44,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "USD Swaptions",
+    "prev_month_value": -28.5,
+    "current_month_value": -30.1,
+    "difference": -1.6,
+    "commentary": "0.9m adverse impact for Helios Manufacturing from tighter credit spreads, with $0.7 million attributable to Vantage Media following new trade activity."
+  },
+  {
+    "record_id": 45,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Funding Valuation Adjustment",
+    "prev_month_value": -22.8,
+    "current_month_value": -25.2,
+    "difference": -2.4,
+    "commentary": "$1.4 million adverse impact for Helios Manufacturing from tighter credit spreads, with $1 million attributable to Summit Retail following wider credit spreads."
+  },
+  {
+    "record_id": 46,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Capital Valuation Adjustment",
+    "prev_month_value": -14.7,
+    "current_month_value": -8.2,
+    "difference": 6.5,
+    "commentary": "USD 3.7m favourable impact for Meridian Telecom from tighter credit spreads, with 2.8m attributable to Harbor Aviation following tighter credit spreads."
+  },
+  {
+    "record_id": 47,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Liquidity Portfolio",
+    "prev_month_value": 33.5,
+    "current_month_value": 32.5,
+    "difference": -1.0,
+    "commentary": "$0.6 million adverse impact for Summit Retail from discount curve move, with $0.4m attributable to Acme Corp following market data correction."
+  },
+  {
+    "record_id": 48,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "North America Loans",
+    "prev_month_value": 38.5,
+    "current_month_value": 26.5,
+    "difference": -12.0,
+    "commentary": "8.1m adverse impact for Helios Manufacturing from discount curve move, with $3.9m attributable to Meridian Telecom following new trade activity."
+  },
+  {
+    "record_id": 49,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": -36.0,
+    "current_month_value": -24.0,
+    "difference": 12.0,
+    "commentary": "USD 7.2m favourable impact for Meridian Telecom from new trade activity, with $4.8m attributable to Acme Corp following discount curve move."
+  },
+  {
+    "record_id": 50,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "Asia Pacific Corporates",
+    "prev_month_value": -13.4,
+    "current_month_value": -11.6,
+    "difference": 1.8,
+    "commentary": "USD 1.1 million favourable impact for Redwood Logistics from collateral movement, with USD 0.7 million attributable to Meridian Telecom following market data correction."
+  },
+  {
+    "record_id": 51,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Liquidity Portfolio",
+    "prev_month_value": -26.6,
+    "current_month_value": -26.2,
+    "difference": 0.4,
+    "commentary": "$0.2m favourable impact for Summit Retail from wider credit spreads, with USD 0.2m attributable to Bluewater Shipping following volatility repricing."
+  },
+  {
+    "record_id": 52,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Counterparty Credit Risk",
+    "prev_month_value": -5.4,
+    "current_month_value": -19.3,
+    "difference": -13.9,
+    "commentary": "8.2m adverse impact for Meridian Telecom from new trade activity, with 5.7m attributable to Harbor Aviation following volatility repricing."
+  },
+  {
+    "record_id": 53,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": -22.9,
+    "current_month_value": -31.4,
+    "difference": -8.5,
+    "commentary": "4.7m adverse impact for Orion Holdings from tighter credit spreads, with 3.8m attributable to Apex Infrastructure following model reserve recalibration."
+  },
+  {
+    "record_id": 54,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": -33.6,
+    "current_month_value": -47.2,
+    "difference": -13.6,
+    "commentary": "$7.8 million adverse impact for Vantage Media from ratings migration, with $5.8 million attributable to Bluewater Shipping following collateral movement."
+  },
+  {
+    "record_id": 55,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "GBP Rates",
+    "prev_month_value": -29.1,
+    "current_month_value": -31.3,
+    "difference": -2.2,
+    "commentary": "1.2m adverse impact for Harbor Aviation from ratings migration, with USD 1 million attributable to Bluewater Shipping following collateral movement."
+  },
+  {
+    "record_id": 56,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "G10 Options",
+    "prev_month_value": -19.7,
+    "current_month_value": -32.1,
+    "difference": -12.4,
+    "commentary": "6.5m adverse impact for Apex Infrastructure from ratings migration, with 5.9m attributable to Harbor Aviation following discount curve move."
+  },
+  {
+    "record_id": 57,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "G10 Options",
+    "prev_month_value": -2.8,
+    "current_month_value": 3.2,
+    "difference": 6.0,
+    "commentary": "USD 3.3m favourable impact for Meridian Telecom from ratings migration, with USD 2.7m attributable to Northstar Energy following discount curve move."
+  },
+  {
+    "record_id": 58,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": -27.9,
+    "current_month_value": -37.9,
+    "difference": -10.0,
+    "commentary": "$5.3 million adverse impact for Vantage Media from wider credit spreads, with $4.7 million attributable to Harbor Aviation following ratings migration."
+  },
+  {
+    "record_id": 59,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "US Real Estate",
+    "prev_month_value": -7.3,
+    "current_month_value": -18.9,
+    "difference": -11.6,
+    "commentary": "USD 7.2 million adverse impact for Acme Corp from tighter credit spreads, with $4.4m attributable to Vantage Media following market data correction."
+  },
+  {
+    "record_id": 60,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "EMEA Corporates",
+    "prev_month_value": -36.2,
+    "current_month_value": -47.2,
+    "difference": -11.0,
+    "commentary": "6.6m adverse impact for Vantage Media from collateral movement, with $4.4 million attributable to Northstar Energy following collateral movement."
+  },
+  {
+    "record_id": 61,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": -27.1,
+    "current_month_value": -32.4,
+    "difference": -5.3,
+    "commentary": "USD 3.2 million adverse impact for Northstar Energy from tighter credit spreads, with $2.1m attributable to Orion Holdings following wider credit spreads."
+  },
+  {
+    "record_id": 62,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": -29.5,
+    "current_month_value": -38.7,
+    "difference": -9.2,
+    "commentary": "$6 million adverse impact for Redwood Logistics from model reserve recalibration, with $3.2m attributable to Cedar Healthcare following discount curve move."
+  },
+  {
+    "record_id": 63,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "US Pension Fund",
+    "prev_month_value": -33.4,
+    "current_month_value": -20.6,
+    "difference": 12.8,
+    "commentary": "7.7m favourable impact for Acme Corp from portfolio unwind, with 5.1m attributable to Summit Retail following wider credit spreads."
+  },
+  {
+    "record_id": 64,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Collateral Management",
+    "prev_month_value": -16.0,
+    "current_month_value": -6.9,
+    "difference": 9.1,
+    "commentary": "5.2m favourable impact for Bluewater Shipping from collateral movement, with USD 3.9 million attributable to Apex Infrastructure following model reserve recalibration."
+  },
+  {
+    "record_id": 65,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": -30.7,
+    "current_month_value": -18.9,
+    "difference": 11.8,
+    "commentary": "USD 7 million favourable impact for Orion Holdings from model reserve recalibration, with $4.8m attributable to Summit Retail following new trade activity."
+  },
+  {
+    "record_id": 66,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": -27.0,
+    "current_month_value": -24.3,
+    "difference": 2.7,
+    "commentary": "USD 1.4 million favourable impact for Meridian Telecom from discount curve move, with $1.3m attributable to Redwood Logistics following ratings migration."
+  },
+  {
+    "record_id": 67,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": -8.6,
+    "current_month_value": -20.8,
+    "difference": -12.2,
+    "commentary": "8.2m adverse impact for Bluewater Shipping from volatility repricing, with USD 4m attributable to Cedar Healthcare following portfolio unwind."
+  },
+  {
+    "record_id": 68,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "US Pension Fund",
+    "prev_month_value": -18.4,
+    "current_month_value": -17.2,
+    "difference": 1.2,
+    "commentary": "$0.7 million favourable impact for Acme Corp from ratings migration, with USD 0.5 million attributable to Helios Manufacturing following collateral movement."
+  },
+  {
+    "record_id": 69,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "Investment Grade CDS",
+    "prev_month_value": -24.8,
+    "current_month_value": -19.9,
+    "difference": 4.9,
+    "commentary": "USD 3.2 million favourable impact for Orion Holdings from ratings migration, with USD 1.7m attributable to Meridian Telecom following discount curve move."
+  },
+  {
+    "record_id": 70,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": -37.7,
+    "current_month_value": -29.7,
+    "difference": 8.0,
+    "commentary": "USD 4.8m favourable impact for Harbor Aviation from volatility repricing, with USD 3.2m attributable to Acme Corp following market data correction."
+  },
+  {
+    "record_id": 71,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "North America Loans",
+    "prev_month_value": -5.7,
+    "current_month_value": 6.8,
+    "difference": 12.5,
+    "commentary": "$7 million favourable impact for Apex Infrastructure from ratings migration, with 5.5m attributable to Vantage Media following model reserve recalibration."
+  },
+  {
+    "record_id": 72,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Counterparty Credit Risk",
+    "prev_month_value": -30.4,
+    "current_month_value": -37.8,
+    "difference": -7.4,
+    "commentary": "USD 4.5m adverse impact for Harbor Aviation from tighter credit spreads, with USD 2.9 million attributable to Orion Holdings following discount curve move."
+  },
+  {
+    "record_id": 73,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "USD Swaptions",
+    "prev_month_value": -12.3,
+    "current_month_value": -14.4,
+    "difference": -2.1,
+    "commentary": "$1.4 million adverse impact for Bluewater Shipping from market data correction, with USD 0.7m attributable to Northstar Energy following ratings migration."
+  },
+  {
+    "record_id": 74,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "European Real Estate",
+    "prev_month_value": 19.3,
+    "current_month_value": 5.0,
+    "difference": -14.3,
+    "commentary": "$8.2m adverse impact for Vantage Media from collateral movement, with $6.1m attributable to Cedar Healthcare following tighter credit spreads."
+  },
+  {
+    "record_id": 75,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": -32.6,
+    "current_month_value": -39.4,
+    "difference": -6.8,
+    "commentary": "USD 4.2 million adverse impact for Harbor Aviation from volatility repricing, with USD 2.6m attributable to Meridian Telecom following ratings migration."
+  },
+  {
+    "record_id": 76,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "EMEA Structured FX",
+    "prev_month_value": -13.1,
+    "current_month_value": -26.8,
+    "difference": -13.7,
+    "commentary": "$8.6m adverse impact for Meridian Telecom from volatility repricing, with 5.1m attributable to Orion Holdings following collateral movement."
+  },
+  {
+    "record_id": 77,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "EUR Inflation",
+    "prev_month_value": -11.9,
+    "current_month_value": 0.8,
+    "difference": 12.7,
+    "commentary": "8.3m favourable impact for Harbor Aviation from ratings migration, with USD 4.4m attributable to Acme Corp following portfolio unwind."
+  },
+  {
+    "record_id": 78,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "UK Commercial Real Estate",
+    "prev_month_value": 29.5,
+    "current_month_value": 28.4,
+    "difference": -1.1,
+    "commentary": "0.7m adverse impact for Summit Retail from ratings migration, with $0.4m attributable to Orion Holdings following tighter credit spreads."
+  },
+  {
+    "record_id": 79,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "Emerging Markets Rates",
+    "prev_month_value": 3.8,
+    "current_month_value": 8.4,
+    "difference": 4.6,
+    "commentary": "$2.6 million favourable impact for Summit Retail from ratings migration, with USD 2 million attributable to Meridian Telecom following market data correction."
+  },
+  {
+    "record_id": 80,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "European Real Estate",
+    "prev_month_value": -9.8,
+    "current_month_value": -13.8,
+    "difference": -4.0,
+    "commentary": "$2.6m adverse impact for Cedar Healthcare from portfolio unwind, with USD 1.4 million attributable to Apex Infrastructure following model reserve recalibration."
+  },
+  {
+    "record_id": 81,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Capital Valuation Adjustment",
+    "prev_month_value": -11.4,
+    "current_month_value": -12.4,
+    "difference": -1.0,
+    "commentary": "USD 0.6 million adverse impact for Bluewater Shipping from ratings migration, with $0.4m attributable to Orion Holdings following portfolio unwind."
+  },
+  {
+    "record_id": 82,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Counterparty Credit Risk",
+    "prev_month_value": 24.9,
+    "current_month_value": 36.0,
+    "difference": 11.1,
+    "commentary": "$6.5m favourable impact for Meridian Telecom from new trade activity, with 4.6m attributable to Northstar Energy following collateral movement."
+  },
+  {
+    "record_id": 83,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "Asia Pacific Corporates",
+    "prev_month_value": 30.8,
+    "current_month_value": 44.5,
+    "difference": 13.7,
+    "commentary": "USD 9.3 million favourable impact for Bluewater Shipping from portfolio unwind, with $4.4 million attributable to Redwood Logistics following volatility repricing."
+  },
+  {
+    "record_id": 84,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "European Delta One",
+    "prev_month_value": 17.1,
+    "current_month_value": 19.6,
+    "difference": 2.5,
+    "commentary": "1.5m favourable impact for Bluewater Shipping from portfolio unwind, with USD 1m attributable to Harbor Aviation following ratings migration."
+  },
+  {
+    "record_id": 85,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "UK Commercial Real Estate",
+    "prev_month_value": -26.0,
+    "current_month_value": -39.3,
+    "difference": -13.3,
+    "commentary": "$7.1m adverse impact for Acme Corp from market data correction, with USD 6.2 million attributable to Apex Infrastructure following discount curve move."
+  },
+  {
+    "record_id": 86,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": 32.8,
+    "current_month_value": 48.9,
+    "difference": 16.1,
+    "commentary": "USD 10.3m favourable impact for Northstar Energy from volatility repricing, with $5.8m attributable to Apex Infrastructure following collateral movement."
+  },
+  {
+    "record_id": 87,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "Asia Pacific Corporates",
+    "prev_month_value": -14.5,
+    "current_month_value": -26.5,
+    "difference": -12.0,
+    "commentary": "USD 7.7m adverse impact for Bluewater Shipping from tighter credit spreads, with $4.3 million attributable to Vantage Media following tighter credit spreads."
+  },
+  {
+    "record_id": 88,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Liquidity Portfolio",
+    "prev_month_value": -12.8,
+    "current_month_value": 0.0,
+    "difference": 12.8,
+    "commentary": "USD 6.7 million favourable impact for Vantage Media from discount curve move, with $6.1 million attributable to Harbor Aviation following market data correction."
+  },
+  {
+    "record_id": 89,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "G10 Options",
+    "prev_month_value": -24.6,
+    "current_month_value": -30.1,
+    "difference": -5.5,
+    "commentary": "USD 3.5 million adverse impact for Helios Manufacturing from discount curve move, with $2m attributable to Redwood Logistics following discount curve move."
+  },
+  {
+    "record_id": 90,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "US Equity Financing",
+    "prev_month_value": -30.3,
+    "current_month_value": -43.9,
+    "difference": -13.6,
+    "commentary": "USD 8.6 million adverse impact for Helios Manufacturing from discount curve move, with USD 5 million attributable to Northstar Energy following model reserve recalibration."
+  },
+  {
+    "record_id": 91,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Term Funding",
+    "prev_month_value": -38.8,
+    "current_month_value": -37.2,
+    "difference": 1.6,
+    "commentary": "$1m favourable impact for Harbor Aviation from collateral movement, with $0.6m attributable to Redwood Logistics following market data correction."
+  },
+  {
+    "record_id": 92,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "UK Commercial Real Estate",
+    "prev_month_value": -14.2,
+    "current_month_value": -11.4,
+    "difference": 2.8,
+    "commentary": "1.8m favourable impact for Helios Manufacturing from volatility repricing, with $1m attributable to Cedar Healthcare following wider credit spreads."
+  },
+  {
+    "record_id": 93,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Liquidity Portfolio",
+    "prev_month_value": -33.7,
+    "current_month_value": -21.3,
+    "difference": 12.4,
+    "commentary": "6.7m favourable impact for Bluewater Shipping from new trade activity, with USD 5.7m attributable to Cedar Healthcare following discount curve move."
+  },
+  {
+    "record_id": 94,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "EUR Inflation",
+    "prev_month_value": 16.4,
+    "current_month_value": 10.8,
+    "difference": -5.6,
+    "commentary": "$3.5 million adverse impact for Meridian Telecom from discount curve move, with $2.1 million attributable to Northstar Energy following volatility repricing."
+  },
+  {
+    "record_id": 95,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Liquidity Portfolio",
+    "prev_month_value": 32.3,
+    "current_month_value": 20.9,
+    "difference": -11.4,
+    "commentary": "$6.9m adverse impact for Summit Retail from ratings migration, with $4.5m attributable to Cedar Healthcare following new trade activity."
+  },
+  {
+    "record_id": 96,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "Emerging Markets Rates",
+    "prev_month_value": -9.9,
+    "current_month_value": -1.8,
+    "difference": 8.1,
+    "commentary": "USD 5.1m favourable impact for Apex Infrastructure from volatility repricing, with 3m attributable to Orion Holdings following market data correction."
+  },
+  {
+    "record_id": 97,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "European Real Estate",
+    "prev_month_value": -11.5,
+    "current_month_value": -23.8,
+    "difference": -12.3,
+    "commentary": "$6.9 million adverse impact for Northstar Energy from wider credit spreads, with $5.4m attributable to Orion Holdings following volatility repricing."
+  },
+  {
+    "record_id": 98,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "High Yield CDS",
+    "prev_month_value": 11.9,
+    "current_month_value": -3.8,
+    "difference": -15.7,
+    "commentary": "10.4m adverse impact for Redwood Logistics from discount curve move, with 5.3m attributable to Orion Holdings following collateral movement."
+  },
+  {
+    "record_id": 99,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "UK Commercial Real Estate",
+    "prev_month_value": -29.3,
+    "current_month_value": -25.2,
+    "difference": 4.1,
+    "commentary": "2.6m favourable impact for Meridian Telecom from new trade activity, with 1.5m attributable to Summit Retail following ratings migration."
+  },
+  {
+    "record_id": 100,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "Asia Pacific Corporates",
+    "prev_month_value": -36.9,
+    "current_month_value": -49.6,
+    "difference": -12.7,
+    "commentary": "USD 8.2 million adverse impact for Vantage Media from tighter credit spreads, with 4.5m attributable to Summit Retail following market data correction."
+  },
+  {
+    "record_id": 101,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "EMEA Structured FX",
+    "prev_month_value": 8.8,
+    "current_month_value": 17.0,
+    "difference": 8.2,
+    "commentary": "$5.3m favourable impact for Bluewater Shipping from ratings migration, with $2.9m attributable to Acme Corp following discount curve move."
+  },
+  {
+    "record_id": 102,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "US Equity Financing",
+    "prev_month_value": 34.1,
+    "current_month_value": 20.7,
+    "difference": -13.4,
+    "commentary": "$7.4 million adverse impact for Meridian Telecom from discount curve move, with $6m attributable to Cedar Healthcare following new trade activity."
+  },
+  {
+    "record_id": 103,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "EMEA Corporates",
+    "prev_month_value": -8.7,
+    "current_month_value": -20.0,
+    "difference": -11.3,
+    "commentary": "$6 million adverse impact for Cedar Healthcare from tighter credit spreads, with 5.3m attributable to Harbor Aviation following volatility repricing."
+  },
+  {
+    "record_id": 104,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": -37.2,
+    "current_month_value": -28.3,
+    "difference": 8.9,
+    "commentary": "$5.1m favourable impact for Summit Retail from ratings migration, with USD 3.8 million attributable to Bluewater Shipping following market data correction."
+  },
+  {
+    "record_id": 105,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "G10 Options",
+    "prev_month_value": 2.9,
+    "current_month_value": 8.9,
+    "difference": 6.0,
+    "commentary": "USD 3.7 million favourable impact for Cedar Healthcare from new trade activity, with USD 2.3m attributable to Northstar Energy following new trade activity."
+  },
+  {
+    "record_id": 106,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "European Real Estate",
+    "prev_month_value": 29.3,
+    "current_month_value": 34.3,
+    "difference": 5.0,
+    "commentary": "$3.2 million favourable impact for Harbor Aviation from portfolio unwind, with 1.8m attributable to Redwood Logistics following ratings migration."
+  },
+  {
+    "record_id": 107,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "Investment Grade CDS",
+    "prev_month_value": 14.1,
+    "current_month_value": 24.6,
+    "difference": 10.5,
+    "commentary": "$6.8 million favourable impact for Meridian Telecom from new trade activity, with USD 3.7 million attributable to Acme Corp following wider credit spreads."
+  },
+  {
+    "record_id": 108,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "G10 Options",
+    "prev_month_value": -13.1,
+    "current_month_value": 2.4,
+    "difference": 15.5,
+    "commentary": "9m favourable impact for Vantage Media from ratings migration, with 6.5m attributable to Acme Corp following market data correction."
+  },
+  {
+    "record_id": 109,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": -13.6,
+    "current_month_value": -9.3,
+    "difference": 4.3,
+    "commentary": "$2.8 million favourable impact for Summit Retail from tighter credit spreads, with 1.5m attributable to Bluewater Shipping following model reserve recalibration."
+  },
+  {
+    "record_id": 110,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Collateral Management",
+    "prev_month_value": -19.2,
+    "current_month_value": -27.8,
+    "difference": -8.6,
+    "commentary": "$5.3m adverse impact for Orion Holdings from ratings migration, with $3.3m attributable to Helios Manufacturing following new trade activity."
+  },
+  {
+    "record_id": 111,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "EMEA Loans",
+    "prev_month_value": -11.7,
+    "current_month_value": -16.2,
+    "difference": -4.5,
+    "commentary": "USD 2.4m adverse impact for Helios Manufacturing from collateral movement, with USD 2.1m attributable to Bluewater Shipping following tighter credit spreads."
+  },
+  {
+    "record_id": 112,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": -20.3,
+    "current_month_value": -35.6,
+    "difference": -15.3,
+    "commentary": "USD 9.1m adverse impact for Bluewater Shipping from collateral movement, with USD 6.2 million attributable to Summit Retail following collateral movement."
+  },
+  {
+    "record_id": 113,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "US Real Estate",
+    "prev_month_value": 21.9,
+    "current_month_value": 18.1,
+    "difference": -3.8,
+    "commentary": "USD 2.2 million adverse impact for Meridian Telecom from model reserve recalibration, with 1.6m attributable to Apex Infrastructure following ratings migration."
+  },
+  {
+    "record_id": 114,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "High Yield CDS",
+    "prev_month_value": -6.2,
+    "current_month_value": -2.2,
+    "difference": 4.0,
+    "commentary": "$2.2m favourable impact for Bluewater Shipping from portfolio unwind, with 1.8m attributable to Cedar Healthcare following market data correction."
+  },
+  {
+    "record_id": 115,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "US Pension Fund",
+    "prev_month_value": -14.7,
+    "current_month_value": -12.4,
+    "difference": 2.3,
+    "commentary": "1.3m favourable impact for Orion Holdings from collateral movement, with $1m attributable to Harbor Aviation following portfolio unwind."
+  },
+  {
+    "record_id": 116,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "EMEA Corporates",
+    "prev_month_value": -4.3,
+    "current_month_value": 11.0,
+    "difference": 15.3,
+    "commentary": "USD 10m favourable impact for Meridian Telecom from tighter credit spreads, with 5.3m attributable to Orion Holdings following collateral movement."
+  },
+  {
+    "record_id": 117,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Collateral Management",
+    "prev_month_value": -16.1,
+    "current_month_value": -1.5,
+    "difference": 14.6,
+    "commentary": "8.1m favourable impact for Helios Manufacturing from discount curve move, with 6.5m attributable to Harbor Aviation following collateral movement."
+  },
+  {
+    "record_id": 118,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": -27.8,
+    "current_month_value": -13.5,
+    "difference": 14.3,
+    "commentary": "$9.3m favourable impact for Summit Retail from model reserve recalibration, with $5 million attributable to Bluewater Shipping following new trade activity."
+  },
+  {
+    "record_id": 119,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "EMEA Loans",
+    "prev_month_value": 27.9,
+    "current_month_value": 44.0,
+    "difference": 16.1,
+    "commentary": "USD 10.1m favourable impact for Redwood Logistics from discount curve move, with USD 6m attributable to Vantage Media following discount curve move."
+  },
+  {
+    "record_id": 120,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "European Delta One",
+    "prev_month_value": -27.6,
+    "current_month_value": -34.6,
+    "difference": -7.0,
+    "commentary": "USD 4.3 million adverse impact for Summit Retail from tighter credit spreads, with $2.7 million attributable to Cedar Healthcare following tighter credit spreads."
+  },
+  {
+    "record_id": 121,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "USD Swaptions",
+    "prev_month_value": 6.9,
+    "current_month_value": 20.5,
+    "difference": 13.6,
+    "commentary": "$8.2 million favourable impact for Helios Manufacturing from new trade activity, with 5.4m attributable to Northstar Energy following portfolio unwind."
+  },
+  {
+    "record_id": 122,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "EMEA Corporates",
+    "prev_month_value": -37.2,
+    "current_month_value": -32.7,
+    "difference": 4.5,
+    "commentary": "USD 2.8m favourable impact for Helios Manufacturing from new trade activity, with USD 1.7m attributable to Northstar Energy following ratings migration."
+  },
+  {
+    "record_id": 123,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "US Equity Financing",
+    "prev_month_value": 17.8,
+    "current_month_value": 11.6,
+    "difference": -6.2,
+    "commentary": "3.5m adverse impact for Acme Corp from market data correction, with USD 2.7m attributable to Harbor Aviation following new trade activity."
+  },
+  {
+    "record_id": 124,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": 37.2,
+    "current_month_value": 31.6,
+    "difference": -5.6,
+    "commentary": "$3.5m adverse impact for Orion Holdings from ratings migration, with $2.1 million attributable to Northstar Energy following volatility repricing."
+  },
+  {
+    "record_id": 125,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "USD Swaptions",
+    "prev_month_value": -14.6,
+    "current_month_value": -28.7,
+    "difference": -14.1,
+    "commentary": "$9.2m adverse impact for Bluewater Shipping from market data correction, with 4.9m attributable to Northstar Energy following volatility repricing."
+  },
+  {
+    "record_id": 126,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "European Delta One",
+    "prev_month_value": 19.8,
+    "current_month_value": 4.3,
+    "difference": -15.5,
+    "commentary": "8.1m adverse impact for Harbor Aviation from tighter credit spreads, with $7.4m attributable to Redwood Logistics following collateral movement."
+  },
+  {
+    "record_id": 127,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "High Yield CDS",
+    "prev_month_value": -12.9,
+    "current_month_value": -3.6,
+    "difference": 9.3,
+    "commentary": "5.8m favourable impact for Harbor Aviation from wider credit spreads, with USD 3.5 million attributable to Redwood Logistics following model reserve recalibration."
+  },
+  {
+    "record_id": 128,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "EMEA Corporates",
+    "prev_month_value": -4.3,
+    "current_month_value": -6.4,
+    "difference": -2.1,
+    "commentary": "$1.2m adverse impact for Harbor Aviation from wider credit spreads, with USD 0.9m attributable to Cedar Healthcare following new trade activity."
+  },
+  {
+    "record_id": 129,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": -3.2,
+    "current_month_value": -2.6,
+    "difference": 0.6,
+    "commentary": "USD 0.3m favourable impact for Northstar Energy from ratings migration, with $0.3m attributable to Bluewater Shipping following model reserve recalibration."
+  },
+  {
+    "record_id": 130,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Collateral Management",
+    "prev_month_value": -3.4,
+    "current_month_value": -6.3,
+    "difference": -2.9,
+    "commentary": "1.8m adverse impact for Summit Retail from portfolio unwind, with 1.1m attributable to Acme Corp following tighter credit spreads."
+  },
+  {
+    "record_id": 131,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "North America",
+    "prev_month_value": -26.6,
+    "current_month_value": -30.8,
+    "difference": -4.2,
+    "commentary": "$2.3 million adverse impact for Northstar Energy from ratings migration, with $1.9 million attributable to Bluewater Shipping following ratings migration."
+  },
+  {
+    "record_id": 132,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "North America",
+    "prev_month_value": -24.3,
+    "current_month_value": -39.1,
+    "difference": -14.8,
+    "commentary": "$9.8 million adverse impact for Acme Corp from volatility repricing, with $5 million attributable to Cedar Healthcare following wider credit spreads."
+  },
+  {
+    "record_id": 133,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "G10 Options",
+    "prev_month_value": 10.9,
+    "current_month_value": 1.0,
+    "difference": -9.9,
+    "commentary": "USD 5.3m adverse impact for Apex Infrastructure from model reserve recalibration, with $4.6 million attributable to Summit Retail following market data correction."
+  },
+  {
+    "record_id": 134,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "US Equity Financing",
+    "prev_month_value": 11.4,
+    "current_month_value": 10.0,
+    "difference": -1.4,
+    "commentary": "USD 0.9m adverse impact for Bluewater Shipping from collateral movement, with $0.5 million attributable to Apex Infrastructure following new trade activity."
+  },
+  {
+    "record_id": 135,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "Asia FX Forwards",
+    "prev_month_value": -39.6,
+    "current_month_value": -55.8,
+    "difference": -16.2,
+    "commentary": "$8.9 million adverse impact for Helios Manufacturing from new trade activity, with $7.3 million attributable to Apex Infrastructure following volatility repricing."
+  },
+  {
+    "record_id": 136,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Term Funding",
+    "prev_month_value": -11.3,
+    "current_month_value": -9.8,
+    "difference": 1.5,
+    "commentary": "0.9m favourable impact for Northstar Energy from tighter credit spreads, with USD 0.6m attributable to Harbor Aviation following new trade activity."
+  },
+  {
+    "record_id": 137,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "EMEA Loans",
+    "prev_month_value": -14.8,
+    "current_month_value": -22.4,
+    "difference": -7.6,
+    "commentary": "$4.5m adverse impact for Helios Manufacturing from discount curve move, with 3.1m attributable to Orion Holdings following discount curve move."
+  },
+  {
+    "record_id": 138,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "High Yield CDS",
+    "prev_month_value": -15.8,
+    "current_month_value": -24.3,
+    "difference": -8.5,
+    "commentary": "4.5m adverse impact for Orion Holdings from discount curve move, with USD 4m attributable to Cedar Healthcare following model reserve recalibration."
+  },
+  {
+    "record_id": 139,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "EMEA Structured FX",
+    "prev_month_value": 20.6,
+    "current_month_value": 25.5,
+    "difference": 4.9,
+    "commentary": "USD 3.2m favourable impact for Acme Corp from volatility repricing, with $1.7 million attributable to Harbor Aviation following model reserve recalibration."
+  },
+  {
+    "record_id": 140,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "EMEA Structured FX",
+    "prev_month_value": -37.2,
+    "current_month_value": -42.0,
+    "difference": -4.8,
+    "commentary": "USD 3.1m adverse impact for Bluewater Shipping from tighter credit spreads, with $1.7 million attributable to Helios Manufacturing following collateral movement."
+  },
+  {
+    "record_id": 141,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "North America Loans",
+    "prev_month_value": -26.0,
+    "current_month_value": -16.0,
+    "difference": 10.0,
+    "commentary": "$6.4 million favourable impact for Redwood Logistics from volatility repricing, with $3.6m attributable to Vantage Media following portfolio unwind."
+  },
+  {
+    "record_id": 142,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "US Equity Financing",
+    "prev_month_value": 32.0,
+    "current_month_value": 20.0,
+    "difference": -12.0,
+    "commentary": "USD 7.9 million adverse impact for Acme Corp from discount curve move, with 4.1m attributable to Harbor Aviation following collateral movement."
+  },
+  {
+    "record_id": 143,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "Global Index Options",
+    "prev_month_value": -11.9,
+    "current_month_value": 1.6,
+    "difference": 13.5,
+    "commentary": "$7.7m favourable impact for Vantage Media from volatility repricing, with USD 5.8m attributable to Bluewater Shipping following ratings migration."
+  },
+  {
+    "record_id": 144,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Capital Valuation Adjustment",
+    "prev_month_value": -20.5,
+    "current_month_value": -11.0,
+    "difference": 9.5,
+    "commentary": "5m favourable impact for Vantage Media from volatility repricing, with USD 4.5 million attributable to Bluewater Shipping following ratings migration."
+  },
+  {
+    "record_id": 145,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "North America",
+    "prev_month_value": -11.0,
+    "current_month_value": -22.5,
+    "difference": -11.5,
+    "commentary": "USD 6.4m adverse impact for Cedar Healthcare from volatility repricing, with USD 5.1 million attributable to Helios Manufacturing following model reserve recalibration."
+  },
+  {
+    "record_id": 146,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "High Yield CDS",
+    "prev_month_value": -17.2,
+    "current_month_value": -25.7,
+    "difference": -8.5,
+    "commentary": "USD 4.6m adverse impact for Cedar Healthcare from wider credit spreads, with 3.9m attributable to Meridian Telecom following collateral movement."
+  },
+  {
+    "record_id": 147,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Term Funding",
+    "prev_month_value": -12.3,
+    "current_month_value": -8.7,
+    "difference": 3.6,
+    "commentary": "$2.2m favourable impact for Summit Retail from collateral movement, with $1.4 million attributable to Vantage Media following market data correction."
+  },
+  {
+    "record_id": 148,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": -22.3,
+    "current_month_value": -28.6,
+    "difference": -6.3,
+    "commentary": "$4.2 million adverse impact for Vantage Media from wider credit spreads, with 2.1m attributable to Northstar Energy following tighter credit spreads."
+  },
+  {
+    "record_id": 149,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "Global Index Options",
+    "prev_month_value": 2.2,
+    "current_month_value": -14.2,
+    "difference": -16.4,
+    "commentary": "USD 9.6m adverse impact for Summit Retail from portfolio unwind, with USD 6.8m attributable to Helios Manufacturing following wider credit spreads."
+  },
+  {
+    "record_id": 150,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Funding Valuation Adjustment",
+    "prev_month_value": 34.5,
+    "current_month_value": 48.5,
+    "difference": 14.0,
+    "commentary": "8.1m favourable impact for Redwood Logistics from discount curve move, with $5.9m attributable to Meridian Telecom following portfolio unwind."
+  },
+  {
+    "record_id": 151,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "North America Loans",
+    "prev_month_value": -7.5,
+    "current_month_value": -14.2,
+    "difference": -6.7,
+    "commentary": "$3.7 million adverse impact for Harbor Aviation from wider credit spreads, with USD 3m attributable to Helios Manufacturing following portfolio unwind."
+  },
+  {
+    "record_id": 152,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Capital Valuation Adjustment",
+    "prev_month_value": -26.1,
+    "current_month_value": -22.2,
+    "difference": 3.9,
+    "commentary": "2.6m favourable impact for Helios Manufacturing from model reserve recalibration, with $1.3 million attributable to Vantage Media following collateral movement."
+  },
+  {
+    "record_id": 153,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "EMEA Loans",
+    "prev_month_value": -11.0,
+    "current_month_value": -24.6,
+    "difference": -13.6,
+    "commentary": "$8.9m adverse impact for Summit Retail from tighter credit spreads, with $4.7m attributable to Apex Infrastructure following volatility repricing."
+  },
+  {
+    "record_id": 154,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "EMEA Corporates",
+    "prev_month_value": -21.7,
+    "current_month_value": -19.1,
+    "difference": 2.6,
+    "commentary": "USD 1.5 million favourable impact for Meridian Telecom from tighter credit spreads, with $1.1 million attributable to Vantage Media following discount curve move."
+  },
+  {
+    "record_id": 155,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "EMEA Structured FX",
+    "prev_month_value": -11.5,
+    "current_month_value": -18.8,
+    "difference": -7.3,
+    "commentary": "$4.7m adverse impact for Bluewater Shipping from collateral movement, with USD 2.6 million attributable to Acme Corp following collateral movement."
+  },
+  {
+    "record_id": 156,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Collateral Management",
+    "prev_month_value": -22.5,
+    "current_month_value": -10.9,
+    "difference": 11.6,
+    "commentary": "7.5m favourable impact for Harbor Aviation from wider credit spreads, with $4.1m attributable to Orion Holdings following market data correction."
+  },
+  {
+    "record_id": 157,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": 13.2,
+    "current_month_value": 24.8,
+    "difference": 11.6,
+    "commentary": "6.9m favourable impact for Northstar Energy from ratings migration, with 4.7m attributable to Vantage Media following tighter credit spreads."
+  },
+  {
+    "record_id": 158,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "High Yield CDS",
+    "prev_month_value": -27.6,
+    "current_month_value": -33.0,
+    "difference": -5.4,
+    "commentary": "3.4m adverse impact for Cedar Healthcare from ratings migration, with USD 2m attributable to Redwood Logistics following tighter credit spreads."
+  },
+  {
+    "record_id": 159,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "High Yield CDS",
+    "prev_month_value": -34.5,
+    "current_month_value": -39.0,
+    "difference": -4.5,
+    "commentary": "$2.7 million adverse impact for Orion Holdings from model reserve recalibration, with USD 1.8 million attributable to Vantage Media following wider credit spreads."
+  },
+  {
+    "record_id": 160,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "EMEA Structured FX",
+    "prev_month_value": -15.5,
+    "current_month_value": -30.8,
+    "difference": -15.3,
+    "commentary": "USD 8.6 million adverse impact for Summit Retail from collateral movement, with USD 6.7 million attributable to Cedar Healthcare following new trade activity."
+  },
+  {
+    "record_id": 161,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": 18.6,
+    "current_month_value": 8.4,
+    "difference": -10.2,
+    "commentary": "$5.6 million adverse impact for Meridian Telecom from portfolio unwind, with $4.6m attributable to Northstar Energy following ratings migration."
+  },
+  {
+    "record_id": 162,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": 5.7,
+    "current_month_value": -4.5,
+    "difference": -10.2,
+    "commentary": "USD 5.7 million adverse impact for Helios Manufacturing from ratings migration, with 4.5m attributable to Acme Corp following portfolio unwind."
+  },
+  {
+    "record_id": 163,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "EMEA Structured FX",
+    "prev_month_value": -10.5,
+    "current_month_value": -23.6,
+    "difference": -13.1,
+    "commentary": "USD 7.1 million adverse impact for Vantage Media from market data correction, with 6m attributable to Acme Corp following discount curve move."
+  },
+  {
+    "record_id": 164,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "EMEA Corporates",
+    "prev_month_value": -30.7,
+    "current_month_value": -22.7,
+    "difference": 8.0,
+    "commentary": "4.4m favourable impact for Summit Retail from volatility repricing, with USD 3.6m attributable to Acme Corp following tighter credit spreads."
+  },
+  {
+    "record_id": 165,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "Investment Grade CDS",
+    "prev_month_value": -19.0,
+    "current_month_value": -21.3,
+    "difference": -2.3,
+    "commentary": "USD 1.3m adverse impact for Meridian Telecom from tighter credit spreads, with USD 1m attributable to Acme Corp following tighter credit spreads."
+  },
+  {
+    "record_id": 166,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "European Real Estate",
+    "prev_month_value": -10.6,
+    "current_month_value": -24.1,
+    "difference": -13.5,
+    "commentary": "$7.5m adverse impact for Apex Infrastructure from portfolio unwind, with $6 million attributable to Helios Manufacturing following volatility repricing."
+  },
+  {
+    "record_id": 167,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Collateral Management",
+    "prev_month_value": -36.9,
+    "current_month_value": -28.1,
+    "difference": 8.8,
+    "commentary": "$4.8m favourable impact for Helios Manufacturing from tighter credit spreads, with USD 4 million attributable to Northstar Energy following volatility repricing."
+  },
+  {
+    "record_id": 168,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "Asia FX Forwards",
+    "prev_month_value": -27.9,
+    "current_month_value": -38.8,
+    "difference": -10.9,
+    "commentary": "USD 6.4 million adverse impact for Apex Infrastructure from tighter credit spreads, with 4.5m attributable to Helios Manufacturing following ratings migration."
+  },
+  {
+    "record_id": 169,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "Investment Grade CDS",
+    "prev_month_value": -36.0,
+    "current_month_value": -31.5,
+    "difference": 4.5,
+    "commentary": "$3 million favourable impact for Harbor Aviation from portfolio unwind, with $1.5m attributable to Orion Holdings following tighter credit spreads."
+  },
+  {
+    "record_id": 170,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "UK Commercial Real Estate",
+    "prev_month_value": 19.5,
+    "current_month_value": 16.9,
+    "difference": -2.6,
+    "commentary": "1.6m adverse impact for Harbor Aviation from discount curve move, with $1 million attributable to Meridian Telecom following collateral movement."
+  },
+  {
+    "record_id": 171,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": 29.2,
+    "current_month_value": 32.4,
+    "difference": 3.2,
+    "commentary": "$2m favourable impact for Harbor Aviation from market data correction, with $1.2 million attributable to Redwood Logistics following collateral movement."
+  },
+  {
+    "record_id": 172,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": -6.6,
+    "current_month_value": 1.8,
+    "difference": 8.4,
+    "commentary": "5m favourable impact for Meridian Telecom from market data correction, with USD 3.4 million attributable to Orion Holdings following discount curve move."
+  },
+  {
+    "record_id": 173,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "Emerging Markets Rates",
+    "prev_month_value": 5.2,
+    "current_month_value": 12.4,
+    "difference": 7.2,
+    "commentary": "$4.1 million favourable impact for Apex Infrastructure from volatility repricing, with 3.1m attributable to Helios Manufacturing following tighter credit spreads."
+  },
+  {
+    "record_id": 174,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "EMEA Corporates",
+    "prev_month_value": -14.8,
+    "current_month_value": -13.3,
+    "difference": 1.5,
+    "commentary": "USD 0.9 million favourable impact for Cedar Healthcare from tighter credit spreads, with USD 0.6 million attributable to Harbor Aviation following new trade activity."
+  },
+  {
+    "record_id": 175,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "EMEA Loans",
+    "prev_month_value": -35.6,
+    "current_month_value": -29.1,
+    "difference": 6.5,
+    "commentary": "USD 3.4 million favourable impact for Vantage Media from wider credit spreads, with $3.1 million attributable to Bluewater Shipping following tighter credit spreads."
+  },
+  {
+    "record_id": 176,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Counterparty Credit Risk",
+    "prev_month_value": -35.5,
+    "current_month_value": -20.0,
+    "difference": 15.5,
+    "commentary": "8.6m favourable impact for Helios Manufacturing from market data correction, with $6.9 million attributable to Northstar Energy following ratings migration."
+  },
+  {
+    "record_id": 177,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "North America Loans",
+    "prev_month_value": -3.8,
+    "current_month_value": 8.0,
+    "difference": 11.8,
+    "commentary": "$7.8 million favourable impact for Redwood Logistics from market data correction, with $4m attributable to Acme Corp following portfolio unwind."
+  },
+  {
+    "record_id": 178,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Capital Valuation Adjustment",
+    "prev_month_value": -25.8,
+    "current_month_value": -9.5,
+    "difference": 16.3,
+    "commentary": "9.4m favourable impact for Harbor Aviation from wider credit spreads, with USD 6.9 million attributable to Cedar Healthcare following market data correction."
+  },
+  {
+    "record_id": 179,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "G10 Options",
+    "prev_month_value": -29.3,
+    "current_month_value": -34.5,
+    "difference": -5.2,
+    "commentary": "USD 3.4 million adverse impact for Cedar Healthcare from ratings migration, with $1.8m attributable to Redwood Logistics following ratings migration."
+  },
+  {
+    "record_id": 180,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "EMEA Corporates",
+    "prev_month_value": -20.6,
+    "current_month_value": -5.9,
+    "difference": 14.7,
+    "commentary": "$9.3 million favourable impact for Helios Manufacturing from new trade activity, with $5.4 million attributable to Vantage Media following model reserve recalibration."
+  },
+  {
+    "record_id": 181,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Liquidity Portfolio",
+    "prev_month_value": -8.1,
+    "current_month_value": -1.2,
+    "difference": 6.9,
+    "commentary": "$3.9m favourable impact for Northstar Energy from volatility repricing, with $3m attributable to Vantage Media following portfolio unwind."
+  },
+  {
+    "record_id": 182,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": -24.2,
+    "current_month_value": -28.5,
+    "difference": -4.3,
+    "commentary": "$2.5m adverse impact for Orion Holdings from portfolio unwind, with USD 1.8 million attributable to Harbor Aviation following collateral movement."
+  },
+  {
+    "record_id": 183,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": -25.1,
+    "current_month_value": -35.7,
+    "difference": -10.6,
+    "commentary": "USD 7m adverse impact for Harbor Aviation from ratings migration, with USD 3.6m attributable to Helios Manufacturing following ratings migration."
+  },
+  {
+    "record_id": 184,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "European Real Estate",
+    "prev_month_value": -25.7,
+    "current_month_value": -19.9,
+    "difference": 5.8,
+    "commentary": "3.9m favourable impact for Acme Corp from discount curve move, with USD 1.9 million attributable to Meridian Telecom following market data correction."
+  },
+  {
+    "record_id": 185,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": -8.5,
+    "current_month_value": 0.7,
+    "difference": 9.2,
+    "commentary": "USD 4.8m favourable impact for Orion Holdings from new trade activity, with USD 4.4 million attributable to Harbor Aviation following portfolio unwind."
+  },
+  {
+    "record_id": 186,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "Investment Grade CDS",
+    "prev_month_value": -35.5,
+    "current_month_value": -20.1,
+    "difference": 15.4,
+    "commentary": "USD 10.1m favourable impact for Vantage Media from ratings migration, with $5.3m attributable to Helios Manufacturing following tighter credit spreads."
+  },
+  {
+    "record_id": 187,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Funding Valuation Adjustment",
+    "prev_month_value": -2.2,
+    "current_month_value": -11.3,
+    "difference": -9.1,
+    "commentary": "5.6m adverse impact for Cedar Healthcare from new trade activity, with USD 3.5 million attributable to Bluewater Shipping following volatility repricing."
+  },
+  {
+    "record_id": 188,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "EMEA Corporates",
+    "prev_month_value": -28.3,
+    "current_month_value": -38.7,
+    "difference": -10.4,
+    "commentary": "$6.2 million adverse impact for Vantage Media from portfolio unwind, with $4.2m attributable to Summit Retail following collateral movement."
+  },
+  {
+    "record_id": 189,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "USD Swaptions",
+    "prev_month_value": 30.9,
+    "current_month_value": 45.2,
+    "difference": 14.3,
+    "commentary": "$8.3 million favourable impact for Bluewater Shipping from tighter credit spreads, with USD 6 million attributable to Vantage Media following discount curve move."
+  },
+  {
+    "record_id": 190,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Capital Valuation Adjustment",
+    "prev_month_value": 2.6,
+    "current_month_value": -10.8,
+    "difference": -13.4,
+    "commentary": "USD 7m adverse impact for Summit Retail from volatility repricing, with $6.4m attributable to Harbor Aviation following collateral movement."
+  },
+  {
+    "record_id": 191,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "Investment Grade CDS",
+    "prev_month_value": -5.3,
+    "current_month_value": -10.5,
+    "difference": -5.2,
+    "commentary": "USD 3m adverse impact for Helios Manufacturing from new trade activity, with USD 2.2m attributable to Acme Corp following discount curve move."
+  },
+  {
+    "record_id": 192,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Collateral Management",
+    "prev_month_value": -19.9,
+    "current_month_value": -29.0,
+    "difference": -9.1,
+    "commentary": "USD 5 million adverse impact for Apex Infrastructure from collateral movement, with $4.1 million attributable to Summit Retail following portfolio unwind."
+  },
+  {
+    "record_id": 193,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Capital Valuation Adjustment",
+    "prev_month_value": -37.8,
+    "current_month_value": -31.2,
+    "difference": 6.6,
+    "commentary": "USD 3.5 million favourable impact for Redwood Logistics from model reserve recalibration, with USD 3.1 million attributable to Bluewater Shipping following ratings migration."
+  },
+  {
+    "record_id": 194,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "North America",
+    "prev_month_value": 7.5,
+    "current_month_value": 22.2,
+    "difference": 14.7,
+    "commentary": "$9.2m favourable impact for Apex Infrastructure from ratings migration, with 5.5m attributable to Orion Holdings following market data correction."
+  },
+  {
+    "record_id": 195,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "North America Loans",
+    "prev_month_value": -39.6,
+    "current_month_value": -26.2,
+    "difference": 13.4,
+    "commentary": "7.7m favourable impact for Harbor Aviation from tighter credit spreads, with USD 5.7 million attributable to Northstar Energy following model reserve recalibration."
+  },
+  {
+    "record_id": 196,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "US Real Estate",
+    "prev_month_value": 37.5,
+    "current_month_value": 51.7,
+    "difference": 14.2,
+    "commentary": "USD 9.2m favourable impact for Helios Manufacturing from ratings migration, with $5m attributable to Acme Corp following collateral movement."
+  },
+  {
+    "record_id": 197,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "USD Swaptions",
+    "prev_month_value": -35.9,
+    "current_month_value": -45.5,
+    "difference": -9.6,
+    "commentary": "USD 5.7 million adverse impact for Summit Retail from tighter credit spreads, with USD 3.9m attributable to Harbor Aviation following tighter credit spreads."
+  },
+  {
+    "record_id": 198,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "US Equity Financing",
+    "prev_month_value": -28.3,
+    "current_month_value": -17.7,
+    "difference": 10.6,
+    "commentary": "$6 million favourable impact for Northstar Energy from volatility repricing, with 4.6m attributable to Redwood Logistics following tighter credit spreads."
+  },
+  {
+    "record_id": 199,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "GBP Rates",
+    "prev_month_value": -34.7,
+    "current_month_value": -39.4,
+    "difference": -4.7,
+    "commentary": "$2.9m adverse impact for Bluewater Shipping from volatility repricing, with USD 1.8m attributable to Harbor Aviation following portfolio unwind."
+  },
+  {
+    "record_id": 200,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "G10 Options",
+    "prev_month_value": -27.5,
+    "current_month_value": -35.1,
+    "difference": -7.6,
+    "commentary": "$4.4 million adverse impact for Bluewater Shipping from model reserve recalibration, with $3.2 million attributable to Northstar Energy following volatility repricing."
+  },
+  {
+    "record_id": 201,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "North America",
+    "prev_month_value": -2.9,
+    "current_month_value": 11.4,
+    "difference": 14.3,
+    "commentary": "$8.1 million impact from volatility repricing in Meridian Telecom. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 202,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "EMEA Corporates",
+    "prev_month_value": 33.7,
+    "current_month_value": 40.7,
+    "difference": 7.0,
+    "commentary": "USD 3.3m impact from discount curve move in Summit Retail. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 203,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "USD Swaptions",
+    "prev_month_value": -10.1,
+    "current_month_value": -7.1,
+    "difference": 3.0,
+    "commentary": "USD 1.4 million impact from discount curve move in Bluewater Shipping. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 204,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": -30.4,
+    "current_month_value": -27.3,
+    "difference": 3.1,
+    "commentary": "USD 1.3m impact from market data correction in Harbor Aviation. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 205,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Liquidity Portfolio",
+    "prev_month_value": -13.0,
+    "current_month_value": -6.1,
+    "difference": 6.9,
+    "commentary": "$4.2 million impact from discount curve move in Meridian Telecom. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 206,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "US Equity Financing",
+    "prev_month_value": 29.8,
+    "current_month_value": 28.8,
+    "difference": -1.0,
+    "commentary": "$0.4 million impact from ratings migration in Vantage Media. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 207,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "North America Loans",
+    "prev_month_value": -4.9,
+    "current_month_value": 0.2,
+    "difference": 5.1,
+    "commentary": "$2 million impact from portfolio unwind in Bluewater Shipping. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 208,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Collateral Management",
+    "prev_month_value": -28.6,
+    "current_month_value": -14.2,
+    "difference": 14.4,
+    "commentary": "USD 7.3 million impact from portfolio unwind in Apex Infrastructure. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 209,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "Investment Grade CDS",
+    "prev_month_value": -39.7,
+    "current_month_value": -54.5,
+    "difference": -14.8,
+    "commentary": "$8.3 million impact from model reserve recalibration in Bluewater Shipping. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 210,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "GBP Rates",
+    "prev_month_value": -32.7,
+    "current_month_value": -21.6,
+    "difference": 11.1,
+    "commentary": "$5 million impact from ratings migration in Bluewater Shipping. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 211,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "European Real Estate",
+    "prev_month_value": -15.7,
+    "current_month_value": -2.0,
+    "difference": 13.7,
+    "commentary": "$5.6m impact from portfolio unwind in Meridian Telecom. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 212,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "Investment Grade CDS",
+    "prev_month_value": 22.5,
+    "current_month_value": 34.4,
+    "difference": 11.9,
+    "commentary": "USD 6.3m impact from collateral movement in Orion Holdings. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 213,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "US Pension Fund",
+    "prev_month_value": -31.1,
+    "current_month_value": -15.9,
+    "difference": 15.2,
+    "commentary": "USD 5.8m impact from volatility repricing in Cedar Healthcare. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 214,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "European Real Estate",
+    "prev_month_value": -34.5,
+    "current_month_value": -27.8,
+    "difference": 6.7,
+    "commentary": "USD 3.5m impact from collateral movement in Meridian Telecom. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 215,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Capital Valuation Adjustment",
+    "prev_month_value": -21.1,
+    "current_month_value": -30.8,
+    "difference": -9.7,
+    "commentary": "$4.3 million impact from ratings migration in Harbor Aviation. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 216,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": -17.0,
+    "current_month_value": -9.0,
+    "difference": 8.0,
+    "commentary": "4.4m impact from model reserve recalibration in Bluewater Shipping. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 217,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": 3.4,
+    "current_month_value": 12.9,
+    "difference": 9.5,
+    "commentary": "USD 5.4 million impact from wider credit spreads in Acme Corp. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 218,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "High Yield CDS",
+    "prev_month_value": -30.9,
+    "current_month_value": -47.2,
+    "difference": -16.3,
+    "commentary": "$6.6m impact from ratings migration in Cedar Healthcare. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 219,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "Emerging Markets Rates",
+    "prev_month_value": -24.2,
+    "current_month_value": -16.4,
+    "difference": 7.8,
+    "commentary": "$3 million impact from discount curve move in Cedar Healthcare. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 220,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "EMEA Structured FX",
+    "prev_month_value": -33.7,
+    "current_month_value": -45.6,
+    "difference": -11.9,
+    "commentary": "USD 5.5m impact from portfolio unwind in Acme Corp. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 221,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": -28.8,
+    "current_month_value": -18.5,
+    "difference": 10.3,
+    "commentary": "6.1m impact from model reserve recalibration in Helios Manufacturing. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 222,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Collateral Management",
+    "prev_month_value": -9.1,
+    "current_month_value": -11.4,
+    "difference": -2.3,
+    "commentary": "1.2m impact from collateral movement in Meridian Telecom. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 223,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "Asia Pacific Corporates",
+    "prev_month_value": -2.1,
+    "current_month_value": -13.5,
+    "difference": -11.4,
+    "commentary": "USD 5.7 million impact from ratings migration in Acme Corp. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 224,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "G10 Options",
+    "prev_month_value": -22.2,
+    "current_month_value": -38.2,
+    "difference": -16.0,
+    "commentary": "USD 9.9 million impact from tighter credit spreads in Vantage Media. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 225,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "European Real Estate",
+    "prev_month_value": -33.9,
+    "current_month_value": -46.4,
+    "difference": -12.5,
+    "commentary": "$6.1m impact from market data correction in Apex Infrastructure. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 226,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "Investment Grade CDS",
+    "prev_month_value": -11.6,
+    "current_month_value": -19.7,
+    "difference": -8.1,
+    "commentary": "USD 3.6m impact from market data correction in Redwood Logistics. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 227,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "Asia Exotics",
+    "prev_month_value": 8.3,
+    "current_month_value": -7.4,
+    "difference": -15.7,
+    "commentary": "USD 6.9m impact from collateral movement in Bluewater Shipping. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 228,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": -39.2,
+    "current_month_value": -54.7,
+    "difference": -15.5,
+    "commentary": "USD 8.4 million impact from new trade activity in Acme Corp. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 229,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Liquidity Portfolio",
+    "prev_month_value": -15.7,
+    "current_month_value": -3.4,
+    "difference": 12.3,
+    "commentary": "USD 7.3 million impact from portfolio unwind in Northstar Energy. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 230,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "USD Swaptions",
+    "prev_month_value": -10.9,
+    "current_month_value": -9.7,
+    "difference": 1.2,
+    "commentary": "$0.7m impact from new trade activity in Vantage Media. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 231,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "North America Loans",
+    "prev_month_value": -8.7,
+    "current_month_value": -19.3,
+    "difference": -10.6,
+    "commentary": "$5.5 million impact from model reserve recalibration in Acme Corp. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 232,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "US Real Estate",
+    "prev_month_value": -7.7,
+    "current_month_value": -18.7,
+    "difference": -11.0,
+    "commentary": "$6m impact from volatility repricing in Redwood Logistics. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 233,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "North America",
+    "prev_month_value": -29.5,
+    "current_month_value": -39.7,
+    "difference": -10.2,
+    "commentary": "USD 4.7m impact from volatility repricing in Apex Infrastructure. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 234,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "US Equity Financing",
+    "prev_month_value": 10.9,
+    "current_month_value": 6.8,
+    "difference": -4.1,
+    "commentary": "1.7m impact from volatility repricing in Northstar Energy. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 235,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Funding Valuation Adjustment",
+    "prev_month_value": -21.9,
+    "current_month_value": -6.1,
+    "difference": 15.8,
+    "commentary": "USD 8.6m impact from portfolio unwind in Summit Retail. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 236,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Term Funding",
+    "prev_month_value": -9.9,
+    "current_month_value": -21.5,
+    "difference": -11.6,
+    "commentary": "USD 5.3m impact from discount curve move in Cedar Healthcare. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 237,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": 25.6,
+    "current_month_value": 11.8,
+    "difference": -13.8,
+    "commentary": "6.9m impact from portfolio unwind in Helios Manufacturing. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 238,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Funding Valuation Adjustment",
+    "prev_month_value": -35.9,
+    "current_month_value": -37.1,
+    "difference": -1.2,
+    "commentary": "USD 0.7 million impact from new trade activity in Meridian Telecom. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 239,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "European Delta One",
+    "prev_month_value": -31.1,
+    "current_month_value": -27.3,
+    "difference": 3.8,
+    "commentary": "USD 2.3 million impact from tighter credit spreads in Helios Manufacturing. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 240,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "UK Commercial Real Estate",
+    "prev_month_value": -8.7,
+    "current_month_value": -2.8,
+    "difference": 5.9,
+    "commentary": "USD 2.9m impact from model reserve recalibration in Northstar Energy. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 241,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "Global Index Options",
+    "prev_month_value": 26.8,
+    "current_month_value": 17.6,
+    "difference": -9.2,
+    "commentary": "USD 4.1m impact from ratings migration in Cedar Healthcare. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 242,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "Global Index Options",
+    "prev_month_value": -3.7,
+    "current_month_value": -9.8,
+    "difference": -6.1,
+    "commentary": "3.7m impact from ratings migration in Bluewater Shipping. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 243,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "Global Index Options",
+    "prev_month_value": -10.4,
+    "current_month_value": -25.3,
+    "difference": -14.9,
+    "commentary": "USD 8.8m impact from model reserve recalibration in Summit Retail. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 244,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "European Delta One",
+    "prev_month_value": 26.5,
+    "current_month_value": 39.6,
+    "difference": 13.1,
+    "commentary": "6.4m impact from tighter credit spreads in Redwood Logistics. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 245,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "US Equity Financing",
+    "prev_month_value": -2.9,
+    "current_month_value": 8.7,
+    "difference": 11.6,
+    "commentary": "USD 5.4 million impact from discount curve move in Acme Corp. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 246,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Term Funding",
+    "prev_month_value": -18.9,
+    "current_month_value": -18.5,
+    "difference": 0.4,
+    "commentary": "0.2m impact from tighter credit spreads in Apex Infrastructure. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 247,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "US Real Estate",
+    "prev_month_value": -26.8,
+    "current_month_value": -10.9,
+    "difference": 15.9,
+    "commentary": "USD 8.5m impact from ratings migration in Meridian Telecom. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 248,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "Asia Pacific Corporates",
+    "prev_month_value": -18.6,
+    "current_month_value": -12.8,
+    "difference": 5.8,
+    "commentary": "2.9m impact from new trade activity in Northstar Energy. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 249,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "USD Swaptions",
+    "prev_month_value": -10.7,
+    "current_month_value": -15.2,
+    "difference": -4.5,
+    "commentary": "USD 1.9 million impact from model reserve recalibration in Bluewater Shipping. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 250,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "G10 Options",
+    "prev_month_value": 17.8,
+    "current_month_value": 18.4,
+    "difference": 0.6,
+    "commentary": "USD 0.3 million impact from portfolio unwind in Vantage Media. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 251,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Liquidity Portfolio",
+    "prev_month_value": -38.4,
+    "current_month_value": -22.6,
+    "difference": 15.8,
+    "commentary": "$9.5m impact from collateral movement in Redwood Logistics. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 252,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Collateral Management",
+    "prev_month_value": -13.7,
+    "current_month_value": -4.5,
+    "difference": 9.2,
+    "commentary": "4.8m impact from volatility repricing in Meridian Telecom. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 253,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "North America",
+    "prev_month_value": -30.2,
+    "current_month_value": -23.6,
+    "difference": 6.6,
+    "commentary": "$2.8m impact from wider credit spreads in Orion Holdings. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 254,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "North America Loans",
+    "prev_month_value": -23.6,
+    "current_month_value": -36.7,
+    "difference": -13.1,
+    "commentary": "6.2m impact from tighter credit spreads in Apex Infrastructure. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 255,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": -34.6,
+    "current_month_value": -38.6,
+    "difference": -4.0,
+    "commentary": "$1.9 million impact from volatility repricing in Harbor Aviation. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 256,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": 26.2,
+    "current_month_value": 18.2,
+    "difference": -8.0,
+    "commentary": "$3.3 million impact from model reserve recalibration in Acme Corp. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 257,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "EUR Inflation",
+    "prev_month_value": -28.6,
+    "current_month_value": -17.5,
+    "difference": 11.1,
+    "commentary": "4.3m impact from tighter credit spreads in Cedar Healthcare. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 258,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "GBP Rates",
+    "prev_month_value": -19.8,
+    "current_month_value": -14.1,
+    "difference": 5.7,
+    "commentary": "USD 3m impact from collateral movement in Apex Infrastructure. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 259,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "EMEA Corporates",
+    "prev_month_value": 24.0,
+    "current_month_value": 22.2,
+    "difference": -1.8,
+    "commentary": "USD 1 million impact from portfolio unwind in Acme Corp. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 260,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "EMEA Structured FX",
+    "prev_month_value": -6.0,
+    "current_month_value": -19.4,
+    "difference": -13.4,
+    "commentary": "USD 7.2 million impact from collateral movement in Orion Holdings. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 261,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Collateral Management",
+    "prev_month_value": -24.5,
+    "current_month_value": -20.3,
+    "difference": 4.2,
+    "commentary": "USD 2.5 million impact from wider credit spreads in Redwood Logistics. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 262,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Funding Valuation Adjustment",
+    "prev_month_value": -14.6,
+    "current_month_value": -8.7,
+    "difference": 5.9,
+    "commentary": "USD 3 million impact from wider credit spreads in Summit Retail. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 263,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "US Equity Financing",
+    "prev_month_value": -22.7,
+    "current_month_value": -24.0,
+    "difference": -1.3,
+    "commentary": "USD 0.7 million impact from portfolio unwind in Harbor Aviation. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 264,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "European Real Estate",
+    "prev_month_value": -16.6,
+    "current_month_value": -14.4,
+    "difference": 2.2,
+    "commentary": "$1m impact from portfolio unwind in Cedar Healthcare. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 265,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Funding Valuation Adjustment",
+    "prev_month_value": -38.0,
+    "current_month_value": -38.6,
+    "difference": -0.6,
+    "commentary": "USD 0.3m impact from new trade activity in Vantage Media. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 266,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "US Real Estate",
+    "prev_month_value": 29.1,
+    "current_month_value": 37.4,
+    "difference": 8.3,
+    "commentary": "$4m impact from portfolio unwind in Apex Infrastructure. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 267,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": -4.4,
+    "current_month_value": -20.8,
+    "difference": -16.4,
+    "commentary": "$8.2m impact from volatility repricing in Helios Manufacturing. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 268,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "North America Loans",
+    "prev_month_value": -33.5,
+    "current_month_value": -17.9,
+    "difference": 15.6,
+    "commentary": "USD 9.4 million impact from ratings migration in Acme Corp. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 269,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "US Real Estate",
+    "prev_month_value": -3.0,
+    "current_month_value": -16.9,
+    "difference": -13.9,
+    "commentary": "6.7m impact from model reserve recalibration in Helios Manufacturing. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 270,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "Asia FX Forwards",
+    "prev_month_value": 9.2,
+    "current_month_value": 18.7,
+    "difference": 9.5,
+    "commentary": "USD 4.5 million impact from volatility repricing in Helios Manufacturing. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 271,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "US Pension Fund",
+    "prev_month_value": 2.5,
+    "current_month_value": 8.0,
+    "difference": 5.5,
+    "commentary": "2.5m impact from tighter credit spreads in Meridian Telecom. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 272,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "North America",
+    "prev_month_value": 8.3,
+    "current_month_value": 6.1,
+    "difference": -2.2,
+    "commentary": "USD 1 million impact from volatility repricing in Helios Manufacturing. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 273,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "EMEA Structured FX",
+    "prev_month_value": 20.9,
+    "current_month_value": 33.3,
+    "difference": 12.4,
+    "commentary": "USD 7.3 million impact from portfolio unwind in Meridian Telecom. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 274,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "EUR Inflation",
+    "prev_month_value": -4.1,
+    "current_month_value": 7.1,
+    "difference": 11.2,
+    "commentary": "USD 6.8m impact from tighter credit spreads in Bluewater Shipping. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 275,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "Asia Exotics",
+    "prev_month_value": -22.4,
+    "current_month_value": -25.6,
+    "difference": -3.2,
+    "commentary": "$1.6m impact from portfolio unwind in Bluewater Shipping. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 276,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "European Real Estate",
+    "prev_month_value": -8.5,
+    "current_month_value": 5.0,
+    "difference": 13.5,
+    "commentary": "USD 5.6 million impact from portfolio unwind in Redwood Logistics. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 277,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": -7.4,
+    "current_month_value": -8.9,
+    "difference": -1.5,
+    "commentary": "USD 0.6 million impact from ratings migration in Cedar Healthcare. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 278,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "North America",
+    "prev_month_value": -39.7,
+    "current_month_value": -46.7,
+    "difference": -7.0,
+    "commentary": "USD 4.2 million impact from discount curve move in Vantage Media. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 279,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": -29.1,
+    "current_month_value": -39.6,
+    "difference": -10.5,
+    "commentary": "USD 4m impact from tighter credit spreads in Harbor Aviation. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 280,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "US Pension Fund",
+    "prev_month_value": -16.0,
+    "current_month_value": -1.8,
+    "difference": 14.2,
+    "commentary": "$7.7m impact from model reserve recalibration in Redwood Logistics. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 281,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Collateral Management",
+    "prev_month_value": -21.7,
+    "current_month_value": -32.3,
+    "difference": -10.6,
+    "commentary": "USD 5.7m impact from volatility repricing in Redwood Logistics. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 282,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": -31.8,
+    "current_month_value": -30.2,
+    "difference": 1.6,
+    "commentary": "$1m impact from market data correction in Redwood Logistics. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 283,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Funding Valuation Adjustment",
+    "prev_month_value": -11.9,
+    "current_month_value": 2.3,
+    "difference": 14.2,
+    "commentary": "$6.9m impact from new trade activity in Harbor Aviation. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 284,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "US Equity Financing",
+    "prev_month_value": -28.9,
+    "current_month_value": -42.5,
+    "difference": -13.6,
+    "commentary": "USD 6.3m impact from discount curve move in Helios Manufacturing. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 285,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Counterparty Credit Risk",
+    "prev_month_value": -27.7,
+    "current_month_value": -28.6,
+    "difference": -0.9,
+    "commentary": "USD 0.4m impact from market data correction in Meridian Telecom. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 286,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": -39.2,
+    "current_month_value": -25.5,
+    "difference": 13.7,
+    "commentary": "$5.4 million impact from ratings migration in Orion Holdings. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 287,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "US Equity Financing",
+    "prev_month_value": 10.4,
+    "current_month_value": 16.6,
+    "difference": 6.2,
+    "commentary": "2.5m impact from model reserve recalibration in Meridian Telecom. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 288,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "USD Swaptions",
+    "prev_month_value": 12.0,
+    "current_month_value": 16.5,
+    "difference": 4.5,
+    "commentary": "$2.3 million impact from wider credit spreads in Summit Retail. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 289,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "Asia FX Forwards",
+    "prev_month_value": -33.1,
+    "current_month_value": -21.8,
+    "difference": 11.3,
+    "commentary": "4.7m impact from discount curve move in Acme Corp. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 290,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "European Real Estate",
+    "prev_month_value": -24.4,
+    "current_month_value": -9.5,
+    "difference": 14.9,
+    "commentary": "8.7m impact from discount curve move in Vantage Media. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 291,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Counterparty Credit Risk",
+    "prev_month_value": -26.4,
+    "current_month_value": -28.1,
+    "difference": -1.7,
+    "commentary": "$0.9m impact from collateral movement in Orion Holdings. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 292,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "EMEA Loans",
+    "prev_month_value": -36.6,
+    "current_month_value": -50.9,
+    "difference": -14.3,
+    "commentary": "USD 5.7 million impact from volatility repricing in Orion Holdings. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 293,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": -2.2,
+    "current_month_value": 0.2,
+    "difference": 2.4,
+    "commentary": "USD 1.4m impact from new trade activity in Vantage Media. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 294,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "High Yield CDS",
+    "prev_month_value": -31.5,
+    "current_month_value": -44.6,
+    "difference": -13.1,
+    "commentary": "$6.8 million impact from discount curve move in Orion Holdings. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 295,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "EMEA Corporates",
+    "prev_month_value": -12.2,
+    "current_month_value": -1.2,
+    "difference": 11.0,
+    "commentary": "USD 5.4m impact from wider credit spreads in Vantage Media. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 296,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Liquidity Portfolio",
+    "prev_month_value": -2.7,
+    "current_month_value": -14.5,
+    "difference": -11.8,
+    "commentary": "$5.2m impact from collateral movement in Vantage Media. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 297,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": 33.9,
+    "current_month_value": 31.0,
+    "difference": -2.9,
+    "commentary": "$1.2m impact from tighter credit spreads in Bluewater Shipping. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 298,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "UK Commercial Real Estate",
+    "prev_month_value": -22.5,
+    "current_month_value": -29.4,
+    "difference": -6.9,
+    "commentary": "USD 3m impact from collateral movement in Harbor Aviation. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 299,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Term Funding",
+    "prev_month_value": -10.6,
+    "current_month_value": -0.6,
+    "difference": 10.0,
+    "commentary": "$6.1 million impact from ratings migration in Apex Infrastructure. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 300,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "EUR Inflation",
+    "prev_month_value": -7.2,
+    "current_month_value": -0.9,
+    "difference": 6.3,
+    "commentary": "USD 2.7m impact from volatility repricing in Meridian Telecom. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 301,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "EMEA Loans",
+    "prev_month_value": 7.7,
+    "current_month_value": 8.3,
+    "difference": 0.6,
+    "commentary": "$0.2 million impact from new trade activity in Redwood Logistics. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 302,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "USD Swaptions",
+    "prev_month_value": -17.4,
+    "current_month_value": -22.5,
+    "difference": -5.1,
+    "commentary": "USD 2 million impact from volatility repricing in Helios Manufacturing. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 303,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "EMEA Corporates",
+    "prev_month_value": 29.3,
+    "current_month_value": 21.8,
+    "difference": -7.5,
+    "commentary": "USD 4.1 million impact from volatility repricing in Helios Manufacturing. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 304,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": -28.1,
+    "current_month_value": -25.3,
+    "difference": 2.8,
+    "commentary": "$1.5 million impact from wider credit spreads in Harbor Aviation. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 305,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "Emerging Markets Rates",
+    "prev_month_value": 27.7,
+    "current_month_value": 37.6,
+    "difference": 9.9,
+    "commentary": "4.9m impact from model reserve recalibration in Harbor Aviation. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 306,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "UK Commercial Real Estate",
+    "prev_month_value": -6.0,
+    "current_month_value": 7.5,
+    "difference": 13.5,
+    "commentary": "$6.4 million impact from portfolio unwind in Orion Holdings. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 307,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Counterparty Credit Risk",
+    "prev_month_value": -28.6,
+    "current_month_value": -12.6,
+    "difference": 16.0,
+    "commentary": "$6.9m impact from discount curve move in Northstar Energy. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 308,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "EMEA Corporates",
+    "prev_month_value": -26.3,
+    "current_month_value": -21.6,
+    "difference": 4.7,
+    "commentary": "USD 2.8 million impact from ratings migration in Acme Corp. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 309,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "Asia Pacific Corporates",
+    "prev_month_value": -31.1,
+    "current_month_value": -41.4,
+    "difference": -10.3,
+    "commentary": "$5.2m impact from portfolio unwind in Northstar Energy. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 310,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "Asia Exotics",
+    "prev_month_value": -12.5,
+    "current_month_value": -18.3,
+    "difference": -5.8,
+    "commentary": "2.4m impact from tighter credit spreads in Orion Holdings. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 311,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "EMEA Structured FX",
+    "prev_month_value": -23.9,
+    "current_month_value": -17.3,
+    "difference": 6.6,
+    "commentary": "USD 4 million impact from model reserve recalibration in Harbor Aviation. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 312,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "US Real Estate",
+    "prev_month_value": -10.1,
+    "current_month_value": -9.3,
+    "difference": 0.8,
+    "commentary": "$0.3 million impact from model reserve recalibration in Redwood Logistics. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 313,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "US Pension Fund",
+    "prev_month_value": -4.0,
+    "current_month_value": -17.4,
+    "difference": -13.4,
+    "commentary": "$6 million impact from collateral movement in Cedar Healthcare. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 314,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "Emerging Markets Rates",
+    "prev_month_value": -7.3,
+    "current_month_value": -14.1,
+    "difference": -6.8,
+    "commentary": "3.6m impact from wider credit spreads in Summit Retail. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 315,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "Asia Pacific Corporates",
+    "prev_month_value": -35.7,
+    "current_month_value": -27.2,
+    "difference": 8.5,
+    "commentary": "4.5m impact from wider credit spreads in Redwood Logistics. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 316,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": -23.2,
+    "current_month_value": -22.6,
+    "difference": 0.6,
+    "commentary": "$0.4 million impact from ratings migration in Northstar Energy. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 317,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "US Pension Fund",
+    "prev_month_value": -7.8,
+    "current_month_value": -10.2,
+    "difference": -2.4,
+    "commentary": "$1.5m impact from discount curve move in Vantage Media. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 318,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": -9.2,
+    "current_month_value": 6.1,
+    "difference": 15.3,
+    "commentary": "USD 6.5 million impact from discount curve move in Orion Holdings. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 319,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Collateral Management",
+    "prev_month_value": -39.7,
+    "current_month_value": -24.4,
+    "difference": 15.3,
+    "commentary": "$6.3 million impact from collateral movement in Apex Infrastructure. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 320,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "High Yield CDS",
+    "prev_month_value": -18.6,
+    "current_month_value": -23.6,
+    "difference": -5.0,
+    "commentary": "USD 3m impact from volatility repricing in Acme Corp. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 321,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "Asia Pacific Corporates",
+    "prev_month_value": -15.0,
+    "current_month_value": -0.6,
+    "difference": 14.4,
+    "commentary": "USD 7.9m impact from ratings migration in Vantage Media. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 322,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "High Yield CDS",
+    "prev_month_value": -35.8,
+    "current_month_value": -28.6,
+    "difference": 7.2,
+    "commentary": "USD 4.5m impact from ratings migration in Apex Infrastructure. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 323,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": -30.7,
+    "current_month_value": -35.4,
+    "difference": -4.7,
+    "commentary": "1.9m impact from discount curve move in Cedar Healthcare. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 324,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "EMEA Structured FX",
+    "prev_month_value": -37.0,
+    "current_month_value": -46.5,
+    "difference": -9.5,
+    "commentary": "USD 4.2m impact from market data correction in Vantage Media. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 325,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "GBP Rates",
+    "prev_month_value": -11.6,
+    "current_month_value": -27.8,
+    "difference": -16.2,
+    "commentary": "USD 7.7m impact from ratings migration in Northstar Energy. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 326,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "European Real Estate",
+    "prev_month_value": -14.9,
+    "current_month_value": -17.2,
+    "difference": -2.3,
+    "commentary": "USD 1.2 million impact from market data correction in Vantage Media. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 327,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "North America",
+    "prev_month_value": 11.4,
+    "current_month_value": 6.4,
+    "difference": -5.0,
+    "commentary": "$2.7 million impact from volatility repricing in Summit Retail. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 328,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "Asia FX Forwards",
+    "prev_month_value": -5.1,
+    "current_month_value": -12.2,
+    "difference": -7.1,
+    "commentary": "$3.1 million impact from tighter credit spreads in Orion Holdings. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 329,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Capital Valuation Adjustment",
+    "prev_month_value": -23.0,
+    "current_month_value": -25.4,
+    "difference": -2.4,
+    "commentary": "USD 1m impact from collateral movement in Orion Holdings. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 330,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": -39.6,
+    "current_month_value": -43.1,
+    "difference": -3.5,
+    "commentary": "$1.8m impact from tighter credit spreads in Redwood Logistics. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 331,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "North America Loans",
+    "prev_month_value": -17.8,
+    "current_month_value": -15.6,
+    "difference": 2.2,
+    "commentary": "$0.9m impact from new trade activity in Redwood Logistics. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 332,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "EUR Inflation",
+    "prev_month_value": -27.0,
+    "current_month_value": -34.3,
+    "difference": -7.3,
+    "commentary": "USD 3.4m impact from portfolio unwind in Harbor Aviation. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 333,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Collateral Management",
+    "prev_month_value": -26.4,
+    "current_month_value": -11.1,
+    "difference": 15.3,
+    "commentary": "5.9m impact from ratings migration in Northstar Energy. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 334,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": -13.7,
+    "current_month_value": -29.3,
+    "difference": -15.6,
+    "commentary": "7.8m impact from ratings migration in Helios Manufacturing. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 335,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "US Real Estate",
+    "prev_month_value": -31.5,
+    "current_month_value": -24.3,
+    "difference": 7.2,
+    "commentary": "$4.1m impact from discount curve move in Acme Corp. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 336,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "US Real Estate",
+    "prev_month_value": 31.1,
+    "current_month_value": 24.1,
+    "difference": -7.0,
+    "commentary": "$3.4 million impact from market data correction in Vantage Media. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 337,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "European Real Estate",
+    "prev_month_value": -14.8,
+    "current_month_value": -17.8,
+    "difference": -3.0,
+    "commentary": "$1.8m impact from collateral movement in Harbor Aviation. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 338,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": -20.0,
+    "current_month_value": -19.5,
+    "difference": 0.5,
+    "commentary": "$0.2 million impact from market data correction in Northstar Energy. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 339,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Collateral Management",
+    "prev_month_value": -6.3,
+    "current_month_value": -16.9,
+    "difference": -10.6,
+    "commentary": "USD 4.4m impact from portfolio unwind in Vantage Media. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 340,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "US Pension Fund",
+    "prev_month_value": -23.8,
+    "current_month_value": -33.6,
+    "difference": -9.8,
+    "commentary": "USD 3.9 million impact from volatility repricing in Helios Manufacturing. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 341,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": -22.8,
+    "current_month_value": -7.4,
+    "difference": 15.4,
+    "commentary": "6.4m impact from new trade activity in Acme Corp. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 342,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "Emerging Markets Rates",
+    "prev_month_value": -4.5,
+    "current_month_value": -12.7,
+    "difference": -8.2,
+    "commentary": "3.2m impact from discount curve move in Summit Retail. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 343,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "Asia Exotics",
+    "prev_month_value": -7.6,
+    "current_month_value": -9.3,
+    "difference": -1.7,
+    "commentary": "USD 0.7 million impact from wider credit spreads in Bluewater Shipping. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 344,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "US Equity Financing",
+    "prev_month_value": -39.9,
+    "current_month_value": -52.7,
+    "difference": -12.8,
+    "commentary": "USD 5.9 million impact from market data correction in Apex Infrastructure. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 345,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "UK Commercial Real Estate",
+    "prev_month_value": -39.3,
+    "current_month_value": -53.4,
+    "difference": -14.1,
+    "commentary": "USD 8.3 million impact from market data correction in Helios Manufacturing. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 346,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "European Real Estate",
+    "prev_month_value": -30.6,
+    "current_month_value": -27.1,
+    "difference": 3.5,
+    "commentary": "$2.1 million impact from portfolio unwind in Summit Retail. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 347,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Liquidity Portfolio",
+    "prev_month_value": -11.0,
+    "current_month_value": -14.8,
+    "difference": -3.8,
+    "commentary": "USD 2.1m impact from tighter credit spreads in Meridian Telecom. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 348,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "EUR Inflation",
+    "prev_month_value": -16.4,
+    "current_month_value": -25.8,
+    "difference": -9.4,
+    "commentary": "$4.9 million impact from tighter credit spreads in Redwood Logistics. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 349,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "European Delta One",
+    "prev_month_value": -33.3,
+    "current_month_value": -28.8,
+    "difference": 4.5,
+    "commentary": "USD 1.9m impact from discount curve move in Vantage Media. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 350,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "Global Index Options",
+    "prev_month_value": -39.1,
+    "current_month_value": -25.7,
+    "difference": 13.4,
+    "commentary": "6m impact from model reserve recalibration in Cedar Healthcare. The remaining movement reflects broader market activity."
+  },
+  {
+    "record_id": 351,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Counterparty Credit Risk",
+    "prev_month_value": -4.5,
+    "current_month_value": 8.3,
+    "difference": 12.8,
+    "commentary": "Movement driven by market conditions in Counterparty Credit Risk."
+  },
+  {
+    "record_id": 352,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Collateral Management",
+    "prev_month_value": 31.3,
+    "current_month_value": 46.4,
+    "difference": 15.1,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 353,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "Investment Grade CDS",
+    "prev_month_value": 17.2,
+    "current_month_value": 24.4,
+    "difference": 7.2,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 354,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "US Pension Fund",
+    "prev_month_value": -4.4,
+    "current_month_value": 2.2,
+    "difference": 6.6,
+    "commentary": "Movement driven by market conditions in US Pension Fund."
+  },
+  {
+    "record_id": 355,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "Global Index Options",
+    "prev_month_value": -5.8,
+    "current_month_value": -8.4,
+    "difference": -2.6,
+    "commentary": "The adjustment changed due to market data and model impacts."
+  },
+  {
+    "record_id": 356,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "USD Swaptions",
+    "prev_month_value": -18.5,
+    "current_month_value": -29.3,
+    "difference": -10.8,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 357,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "EUR Inflation",
+    "prev_month_value": -31.0,
+    "current_month_value": -22.9,
+    "difference": 8.1,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 358,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Collateral Management",
+    "prev_month_value": -23.4,
+    "current_month_value": -18.9,
+    "difference": 4.5,
+    "commentary": "The adjustment changed due to market data and model impacts."
+  },
+  {
+    "record_id": 359,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "Investment Grade CDS",
+    "prev_month_value": -35.0,
+    "current_month_value": -43.4,
+    "difference": -8.4,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 360,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "High Yield CDS",
+    "prev_month_value": 26.6,
+    "current_month_value": 35.8,
+    "difference": 9.2,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 361,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "US Real Estate",
+    "prev_month_value": -9.7,
+    "current_month_value": -9.0,
+    "difference": 0.7,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 362,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "Asia Exotics",
+    "prev_month_value": 11.2,
+    "current_month_value": 6.8,
+    "difference": -4.4,
+    "commentary": "Movement driven by market conditions in Asia Exotics."
+  },
+  {
+    "record_id": 363,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "Asia Pacific Corporates",
+    "prev_month_value": -14.8,
+    "current_month_value": -16.0,
+    "difference": -1.2,
+    "commentary": "The adjustment changed due to market data and model impacts."
+  },
+  {
+    "record_id": 364,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": 27.8,
+    "current_month_value": 40.6,
+    "difference": 12.8,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 365,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "Asia Pacific Corporates",
+    "prev_month_value": -13.0,
+    "current_month_value": -28.0,
+    "difference": -15.0,
+    "commentary": "The adjustment changed due to market data and model impacts."
+  },
+  {
+    "record_id": 366,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "European Real Estate",
+    "prev_month_value": -25.1,
+    "current_month_value": -31.4,
+    "difference": -6.3,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 367,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": -20.6,
+    "current_month_value": -26.7,
+    "difference": -6.1,
+    "commentary": "The adjustment changed due to market data and model impacts."
+  },
+  {
+    "record_id": 368,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "Emerging Markets Rates",
+    "prev_month_value": 19.3,
+    "current_month_value": 35.7,
+    "difference": 16.4,
+    "commentary": "The adjustment changed due to market data and model impacts."
+  },
+  {
+    "record_id": 369,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "Asia Pacific Corporates",
+    "prev_month_value": -5.3,
+    "current_month_value": -10.0,
+    "difference": -4.7,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 370,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Liquidity Portfolio",
+    "prev_month_value": 17.5,
+    "current_month_value": 12.4,
+    "difference": -5.1,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 371,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "UK Commercial Real Estate",
+    "prev_month_value": -34.2,
+    "current_month_value": -49.1,
+    "difference": -14.9,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 372,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": 32.7,
+    "current_month_value": 37.1,
+    "difference": 4.4,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 373,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "Asia Exotics",
+    "prev_month_value": -20.9,
+    "current_month_value": -6.6,
+    "difference": 14.3,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 374,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "EUR Inflation",
+    "prev_month_value": -3.3,
+    "current_month_value": -8.1,
+    "difference": -4.8,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 375,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "US Real Estate",
+    "prev_month_value": -7.0,
+    "current_month_value": 3.1,
+    "difference": 10.1,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 376,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": 20.0,
+    "current_month_value": 26.8,
+    "difference": 6.8,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 377,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "GBP Rates",
+    "prev_month_value": -34.9,
+    "current_month_value": -29.4,
+    "difference": 5.5,
+    "commentary": "Movement driven by market conditions in GBP Rates."
+  },
+  {
+    "record_id": 378,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": -35.6,
+    "current_month_value": -31.4,
+    "difference": 4.2,
+    "commentary": "Movement driven by market conditions in UK Pension Fund."
+  },
+  {
+    "record_id": 379,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "Investment Grade CDS",
+    "prev_month_value": 15.8,
+    "current_month_value": 9.1,
+    "difference": -6.7,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 380,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "North America",
+    "prev_month_value": -25.3,
+    "current_month_value": -30.4,
+    "difference": -5.1,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 381,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Counterparty Credit Risk",
+    "prev_month_value": 31.4,
+    "current_month_value": 19.2,
+    "difference": -12.2,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 382,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Collateral Management",
+    "prev_month_value": -23.0,
+    "current_month_value": -16.7,
+    "difference": 6.3,
+    "commentary": "The adjustment changed due to market data and model impacts."
+  },
+  {
+    "record_id": 383,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": -37.7,
+    "current_month_value": -32.0,
+    "difference": 5.7,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 384,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": -30.7,
+    "current_month_value": -15.6,
+    "difference": 15.1,
+    "commentary": "Movement driven by market conditions in UK Pension Fund."
+  },
+  {
+    "record_id": 385,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "European Delta One",
+    "prev_month_value": -8.9,
+    "current_month_value": -7.7,
+    "difference": 1.2,
+    "commentary": "Movement driven by market conditions in European Delta One."
+  },
+  {
+    "record_id": 386,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": -38.2,
+    "current_month_value": -48.5,
+    "difference": -10.3,
+    "commentary": "Movement driven by market conditions in Asset Backed Securities."
+  },
+  {
+    "record_id": 387,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": -21.3,
+    "current_month_value": -6.1,
+    "difference": 15.2,
+    "commentary": "The adjustment changed due to market data and model impacts."
+  },
+  {
+    "record_id": 388,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": -21.0,
+    "current_month_value": -25.6,
+    "difference": -4.6,
+    "commentary": "The adjustment changed due to market data and model impacts."
+  },
+  {
+    "record_id": 389,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Counterparty Credit Risk",
+    "prev_month_value": -14.8,
+    "current_month_value": -17.1,
+    "difference": -2.3,
+    "commentary": "The adjustment changed due to market data and model impacts."
+  },
+  {
+    "record_id": 390,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": 29.8,
+    "current_month_value": 44.4,
+    "difference": 14.6,
+    "commentary": "The adjustment changed due to market data and model impacts."
+  },
+  {
+    "record_id": 391,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "Global Index Options",
+    "prev_month_value": -27.4,
+    "current_month_value": -17.6,
+    "difference": 9.8,
+    "commentary": "Movement driven by market conditions in Global Index Options."
+  },
+  {
+    "record_id": 392,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Term Funding",
+    "prev_month_value": -16.2,
+    "current_month_value": -27.1,
+    "difference": -10.9,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 393,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "Asia FX Forwards",
+    "prev_month_value": 7.6,
+    "current_month_value": 13.3,
+    "difference": 5.7,
+    "commentary": "Movement driven by market conditions in Asia FX Forwards."
+  },
+  {
+    "record_id": 394,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "USD Swaptions",
+    "prev_month_value": -24.9,
+    "current_month_value": -10.6,
+    "difference": 14.3,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 395,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": 31.5,
+    "current_month_value": 25.9,
+    "difference": -5.6,
+    "commentary": "The adjustment changed due to market data and model impacts."
+  },
+  {
+    "record_id": 396,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "USD Swaptions",
+    "prev_month_value": -26.3,
+    "current_month_value": -38.5,
+    "difference": -12.2,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 397,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "Investment Grade CDS",
+    "prev_month_value": 36.5,
+    "current_month_value": 43.0,
+    "difference": 6.5,
+    "commentary": "Movement driven by market conditions in Investment Grade CDS."
+  },
+  {
+    "record_id": 398,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "Asia Pacific Corporates",
+    "prev_month_value": -17.8,
+    "current_month_value": -4.2,
+    "difference": 13.6,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 399,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "Asia Exotics",
+    "prev_month_value": -19.4,
+    "current_month_value": -22.8,
+    "difference": -3.4,
+    "commentary": "The adjustment changed due to market data and model impacts."
+  },
+  {
+    "record_id": 400,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Term Funding",
+    "prev_month_value": -39.9,
+    "current_month_value": -46.9,
+    "difference": -7.0,
+    "commentary": "The adjustment changed due to market data and model impacts."
+  },
+  {
+    "record_id": 401,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Collateral Management",
+    "prev_month_value": -23.7,
+    "current_month_value": -29.4,
+    "difference": -5.7,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 402,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Collateral Management",
+    "prev_month_value": -6.6,
+    "current_month_value": -17.7,
+    "difference": -11.1,
+    "commentary": "Movement driven by market conditions in Collateral Management."
+  },
+  {
+    "record_id": 403,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Counterparty Credit Risk",
+    "prev_month_value": -23.3,
+    "current_month_value": -25.3,
+    "difference": -2.0,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 404,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Counterparty Credit Risk",
+    "prev_month_value": -18.7,
+    "current_month_value": -12.1,
+    "difference": 6.6,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 405,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "EMEA Corporates",
+    "prev_month_value": -38.9,
+    "current_month_value": -34.6,
+    "difference": 4.3,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 406,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "EUR Inflation",
+    "prev_month_value": -38.3,
+    "current_month_value": -42.6,
+    "difference": -4.3,
+    "commentary": "Movement driven by market conditions in EUR Inflation."
+  },
+  {
+    "record_id": 407,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "EMEA Structured FX",
+    "prev_month_value": -26.3,
+    "current_month_value": -10.3,
+    "difference": 16.0,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 408,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Capital Valuation Adjustment",
+    "prev_month_value": -30.3,
+    "current_month_value": -26.9,
+    "difference": 3.4,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 409,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": -29.0,
+    "current_month_value": -43.9,
+    "difference": -14.9,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 410,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": -19.7,
+    "current_month_value": -9.1,
+    "difference": 10.6,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 411,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": -11.8,
+    "current_month_value": -6.5,
+    "difference": 5.3,
+    "commentary": "Movement driven by market conditions in UK Pension Fund."
+  },
+  {
+    "record_id": 412,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "Emerging Markets Rates",
+    "prev_month_value": -14.0,
+    "current_month_value": -2.6,
+    "difference": 11.4,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 413,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": -23.2,
+    "current_month_value": -31.1,
+    "difference": -7.9,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 414,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Collateral Management",
+    "prev_month_value": -11.5,
+    "current_month_value": 2.7,
+    "difference": 14.2,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 415,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": -25.8,
+    "current_month_value": -14.3,
+    "difference": 11.5,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 416,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "EMEA Loans",
+    "prev_month_value": -16.6,
+    "current_month_value": -6.7,
+    "difference": 9.9,
+    "commentary": "The adjustment changed due to market data and model impacts."
+  },
+  {
+    "record_id": 417,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "US Real Estate",
+    "prev_month_value": 25.5,
+    "current_month_value": 24.3,
+    "difference": -1.2,
+    "commentary": "The adjustment changed due to market data and model impacts."
+  },
+  {
+    "record_id": 418,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Capital Valuation Adjustment",
+    "prev_month_value": -20.3,
+    "current_month_value": -26.1,
+    "difference": -5.8,
+    "commentary": "The adjustment changed due to market data and model impacts."
+  },
+  {
+    "record_id": 419,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": 18.4,
+    "current_month_value": 33.2,
+    "difference": 14.8,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 420,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "EMEA Structured FX",
+    "prev_month_value": -31.9,
+    "current_month_value": -24.6,
+    "difference": 7.3,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 421,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Funding Valuation Adjustment",
+    "prev_month_value": -25.5,
+    "current_month_value": -16.1,
+    "difference": 9.4,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 422,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "EMEA Corporates",
+    "prev_month_value": -25.6,
+    "current_month_value": -10.1,
+    "difference": 15.5,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 423,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "UK Commercial Real Estate",
+    "prev_month_value": 34.1,
+    "current_month_value": 41.3,
+    "difference": 7.2,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 424,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Collateral Management",
+    "prev_month_value": -33.3,
+    "current_month_value": -17.5,
+    "difference": 15.8,
+    "commentary": "Movement driven by market conditions in Collateral Management."
+  },
+  {
+    "record_id": 425,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "USD Swaptions",
+    "prev_month_value": -3.3,
+    "current_month_value": 3.1,
+    "difference": 6.4,
+    "commentary": "The adjustment changed due to market data and model impacts."
+  },
+  {
+    "record_id": 426,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "Emerging Markets Rates",
+    "prev_month_value": -36.3,
+    "current_month_value": -46.0,
+    "difference": -9.7,
+    "commentary": "Movement driven by market conditions in Emerging Markets Rates."
+  },
+  {
+    "record_id": 427,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "UK Commercial Real Estate",
+    "prev_month_value": -3.5,
+    "current_month_value": -15.6,
+    "difference": -12.1,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 428,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "US Equity Financing",
+    "prev_month_value": -35.8,
+    "current_month_value": -34.6,
+    "difference": 1.2,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 429,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "Global Index Options",
+    "prev_month_value": -38.1,
+    "current_month_value": -47.4,
+    "difference": -9.3,
+    "commentary": "The adjustment changed due to market data and model impacts."
+  },
+  {
+    "record_id": 430,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Capital Valuation Adjustment",
+    "prev_month_value": -19.5,
+    "current_month_value": -10.5,
+    "difference": 9.0,
+    "commentary": "Movement driven by market conditions in Capital Valuation Adjustment."
+  },
+  {
+    "record_id": 431,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "US Pension Fund",
+    "prev_month_value": 30.7,
+    "current_month_value": 40.1,
+    "difference": 9.4,
+    "commentary": "Movement driven by market conditions in US Pension Fund."
+  },
+  {
+    "record_id": 432,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "Global Index Options",
+    "prev_month_value": 37.2,
+    "current_month_value": 30.5,
+    "difference": -6.7,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 433,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "US Pension Fund",
+    "prev_month_value": -34.0,
+    "current_month_value": -22.1,
+    "difference": 11.9,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 434,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "Asia Exotics",
+    "prev_month_value": -9.1,
+    "current_month_value": -10.4,
+    "difference": -1.3,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 435,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "US Real Estate",
+    "prev_month_value": 29.0,
+    "current_month_value": 27.9,
+    "difference": -1.1,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 436,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Funding Valuation Adjustment",
+    "prev_month_value": -35.2,
+    "current_month_value": -47.7,
+    "difference": -12.5,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 437,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Funding Valuation Adjustment",
+    "prev_month_value": -28.2,
+    "current_month_value": -42.7,
+    "difference": -14.5,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 438,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "EUR Inflation",
+    "prev_month_value": -29.5,
+    "current_month_value": -45.5,
+    "difference": -16.0,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 439,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "EUR Inflation",
+    "prev_month_value": -36.3,
+    "current_month_value": -42.9,
+    "difference": -6.6,
+    "commentary": "The adjustment changed due to market data and model impacts."
+  },
+  {
+    "record_id": 440,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Funding Valuation Adjustment",
+    "prev_month_value": -25.9,
+    "current_month_value": -34.1,
+    "difference": -8.2,
+    "commentary": "Movement driven by market conditions in Funding Valuation Adjustment."
+  },
+  {
+    "record_id": 441,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "US Pension Fund",
+    "prev_month_value": -5.8,
+    "current_month_value": -17.9,
+    "difference": -12.1,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 442,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Funding Valuation Adjustment",
+    "prev_month_value": -7.5,
+    "current_month_value": -3.0,
+    "difference": 4.5,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 443,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "European Delta One",
+    "prev_month_value": -5.9,
+    "current_month_value": 3.6,
+    "difference": 9.5,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 444,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": -11.6,
+    "current_month_value": -3.3,
+    "difference": 8.3,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 445,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "Asia FX Forwards",
+    "prev_month_value": -15.7,
+    "current_month_value": -20.2,
+    "difference": -4.5,
+    "commentary": "Movement driven by market conditions in Asia FX Forwards."
+  },
+  {
+    "record_id": 446,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "USD Swaptions",
+    "prev_month_value": -10.7,
+    "current_month_value": -23.2,
+    "difference": -12.5,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 447,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": -4.5,
+    "current_month_value": -7.4,
+    "difference": -2.9,
+    "commentary": "Quarter on quarter movement reflects normal business activity."
+  },
+  {
+    "record_id": 448,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": -16.6,
+    "current_month_value": -33.0,
+    "difference": -16.4,
+    "commentary": "Movement driven by market conditions in Warehouse Facilities."
+  },
+  {
+    "record_id": 449,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Term Funding",
+    "prev_month_value": 25.1,
+    "current_month_value": 14.9,
+    "difference": -10.2,
+    "commentary": "Change relates to valuation movements and portfolio activity."
+  },
+  {
+    "record_id": 450,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "US Real Estate",
+    "prev_month_value": -17.4,
+    "current_month_value": -5.5,
+    "difference": 11.9,
+    "commentary": "Movement driven by market conditions in US Real Estate."
+  },
+  {
+    "record_id": 451,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "US Real Estate",
+    "prev_month_value": 13.9,
+    "current_month_value": 17.2,
+    "difference": 3.3,
+    "commentary": "Impact of 3 from Summit Retail due to wider credit spreads."
+  },
+  {
+    "record_id": 452,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "US Equity Financing",
+    "prev_month_value": 31.3,
+    "current_month_value": 41.4,
+    "difference": 10.1,
+    "commentary": "Impact of 10 from Helios Manufacturing due to portfolio unwind."
+  },
+  {
+    "record_id": 453,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "EMEA Loans",
+    "prev_month_value": -3.5,
+    "current_month_value": 4.8,
+    "difference": 8.3,
+    "commentary": "Impact of 8 from Apex Infrastructure due to market data correction."
+  },
+  {
+    "record_id": 454,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "EMEA Corporates",
+    "prev_month_value": -30.7,
+    "current_month_value": -15.5,
+    "difference": 15.2,
+    "commentary": "Impact of 15 from Harbor Aviation due to volatility repricing."
+  },
+  {
+    "record_id": 455,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "Global Index Options",
+    "prev_month_value": -21.8,
+    "current_month_value": -17.7,
+    "difference": 4.1,
+    "commentary": "Impact of 4 from Helios Manufacturing due to discount curve move."
+  },
+  {
+    "record_id": 456,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Liquidity Portfolio",
+    "prev_month_value": -3.5,
+    "current_month_value": -1.6,
+    "difference": 1.9,
+    "commentary": "Impact of 2 from Redwood Logistics due to tighter credit spreads."
+  },
+  {
+    "record_id": 457,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "EMEA Corporates",
+    "prev_month_value": -9.9,
+    "current_month_value": -1.9,
+    "difference": 8.0,
+    "commentary": "Impact of 8 from Acme Corp due to tighter credit spreads."
+  },
+  {
+    "record_id": 458,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "US Pension Fund",
+    "prev_month_value": -30.7,
+    "current_month_value": -42.8,
+    "difference": -12.1,
+    "commentary": "Impact of 12 from Northstar Energy due to ratings migration."
+  },
+  {
+    "record_id": 459,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "GBP Rates",
+    "prev_month_value": -12.4,
+    "current_month_value": -14.3,
+    "difference": -1.9,
+    "commentary": "Impact of 2 from Redwood Logistics due to discount curve move."
+  },
+  {
+    "record_id": 460,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "G10 Options",
+    "prev_month_value": -5.2,
+    "current_month_value": 3.0,
+    "difference": 8.2,
+    "commentary": "Impact of 8 from Acme Corp due to new trade activity."
+  },
+  {
+    "record_id": 461,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Collateral Management",
+    "prev_month_value": -27.6,
+    "current_month_value": -39.3,
+    "difference": -11.7,
+    "commentary": "Impact of 12 from Harbor Aviation due to volatility repricing."
+  },
+  {
+    "record_id": 462,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "European Real Estate",
+    "prev_month_value": -32.4,
+    "current_month_value": -40.5,
+    "difference": -8.1,
+    "commentary": "Impact of 8 from Acme Corp due to tighter credit spreads."
+  },
+  {
+    "record_id": 463,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": -37.7,
+    "current_month_value": -48.0,
+    "difference": -10.3,
+    "commentary": "Impact of 10 from Bluewater Shipping due to portfolio unwind."
+  },
+  {
+    "record_id": 464,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "High Yield CDS",
+    "prev_month_value": 2.7,
+    "current_month_value": -11.9,
+    "difference": -14.6,
+    "commentary": "Impact of 15 from Northstar Energy due to volatility repricing."
+  },
+  {
+    "record_id": 465,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "G10 Options",
+    "prev_month_value": -28.3,
+    "current_month_value": -39.8,
+    "difference": -11.5,
+    "commentary": "Impact of 12 from Summit Retail due to tighter credit spreads."
+  },
+  {
+    "record_id": 466,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Term Funding",
+    "prev_month_value": -28.3,
+    "current_month_value": -35.3,
+    "difference": -7.0,
+    "commentary": "Impact of 7 from Cedar Healthcare due to portfolio unwind."
+  },
+  {
+    "record_id": 467,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "Asia FX Forwards",
+    "prev_month_value": -4.2,
+    "current_month_value": 5.5,
+    "difference": 9.7,
+    "commentary": "Impact of 10 from Helios Manufacturing due to discount curve move."
+  },
+  {
+    "record_id": 468,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "EUR Inflation",
+    "prev_month_value": 30.3,
+    "current_month_value": 39.8,
+    "difference": 9.5,
+    "commentary": "Impact of 10 from Acme Corp due to market data correction."
+  },
+  {
+    "record_id": 469,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Term Funding",
+    "prev_month_value": 18.6,
+    "current_month_value": 5.3,
+    "difference": -13.3,
+    "commentary": "Impact of 13 from Helios Manufacturing due to wider credit spreads."
+  },
+  {
+    "record_id": 470,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Counterparty Credit Risk",
+    "prev_month_value": -34.3,
+    "current_month_value": -33.7,
+    "difference": 0.6,
+    "commentary": "Impact of 1 from Orion Holdings due to new trade activity."
+  },
+  {
+    "record_id": 471,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Asset Backed Securities",
+    "prev_month_value": -15.2,
+    "current_month_value": -26.1,
+    "difference": -10.9,
+    "commentary": "Impact of 11 from Acme Corp due to portfolio unwind."
+  },
+  {
+    "record_id": 472,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "G10 Options",
+    "prev_month_value": -11.8,
+    "current_month_value": -18.4,
+    "difference": -6.6,
+    "commentary": "Impact of 7 from Bluewater Shipping due to tighter credit spreads."
+  },
+  {
+    "record_id": 473,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "North America Loans",
+    "prev_month_value": -12.5,
+    "current_month_value": 0.4,
+    "difference": 12.9,
+    "commentary": "Impact of 13 from Northstar Energy due to discount curve move."
+  },
+  {
+    "record_id": 474,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "G10 Options",
+    "prev_month_value": 8.3,
+    "current_month_value": 3.6,
+    "difference": -4.7,
+    "commentary": "Impact of 5 from Acme Corp due to model reserve recalibration."
+  },
+  {
+    "record_id": 475,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Counterparty Credit Risk",
+    "prev_month_value": -30.7,
+    "current_month_value": -30.2,
+    "difference": 0.5,
+    "commentary": "Impact of 1 from Bluewater Shipping due to model reserve recalibration."
+  },
+  {
+    "record_id": 476,
+    "area": "Markets",
+    "sector": "Credit",
+    "segment": "High Yield CDS",
+    "prev_month_value": -22.7,
+    "current_month_value": -16.5,
+    "difference": 6.2,
+    "commentary": "Impact of 6 from Bluewater Shipping due to wider credit spreads."
+  },
+  {
+    "record_id": 477,
+    "area": "Corporate Centre",
+    "sector": "Structured Finance",
+    "segment": "Warehouse Facilities",
+    "prev_month_value": -6.1,
+    "current_month_value": -19.7,
+    "difference": -13.6,
+    "commentary": "Impact of 14 from Cedar Healthcare due to model reserve recalibration."
+  },
+  {
+    "record_id": 478,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Capital Valuation Adjustment",
+    "prev_month_value": -18.2,
+    "current_month_value": -2.6,
+    "difference": 15.6,
+    "commentary": "Impact of 16 from Acme Corp due to collateral movement."
+  },
+  {
+    "record_id": 479,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "Emerging Markets Rates",
+    "prev_month_value": -23.7,
+    "current_month_value": -30.7,
+    "difference": -7.0,
+    "commentary": "Impact of 7 from Northstar Energy due to collateral movement."
+  },
+  {
+    "record_id": 480,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "European Real Estate",
+    "prev_month_value": -3.0,
+    "current_month_value": 0.9,
+    "difference": 3.9,
+    "commentary": "Impact of 4 from Summit Retail due to portfolio unwind."
+  },
+  {
+    "record_id": 481,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Term Funding",
+    "prev_month_value": -30.7,
+    "current_month_value": -25.4,
+    "difference": 5.3,
+    "commentary": "Impact of 5 from Helios Manufacturing due to discount curve move."
+  },
+  {
+    "record_id": 482,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "US Pension Fund",
+    "prev_month_value": -12.5,
+    "current_month_value": -12.0,
+    "difference": 0.5,
+    "commentary": "Impact of 1 from Redwood Logistics due to volatility repricing."
+  },
+  {
+    "record_id": 483,
+    "area": "Treasury",
+    "sector": "Funding",
+    "segment": "Term Funding",
+    "prev_month_value": -25.4,
+    "current_month_value": -41.4,
+    "difference": -16.0,
+    "commentary": "Impact of 16 from Northstar Energy due to portfolio unwind."
+  },
+  {
+    "record_id": 484,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Counterparty Credit Risk",
+    "prev_month_value": -23.4,
+    "current_month_value": -21.9,
+    "difference": 1.5,
+    "commentary": "Impact of 2 from Bluewater Shipping due to ratings migration."
+  },
+  {
+    "record_id": 485,
+    "area": "Markets",
+    "sector": "Equities",
+    "segment": "Global Index Options",
+    "prev_month_value": -18.7,
+    "current_month_value": -34.5,
+    "difference": -15.8,
+    "commentary": "Impact of 16 from Apex Infrastructure due to model reserve recalibration."
+  },
+  {
+    "record_id": 486,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "Asia Pacific Corporates",
+    "prev_month_value": -31.8,
+    "current_month_value": -15.7,
+    "difference": 16.1,
+    "commentary": "Impact of 16 from Harbor Aviation due to volatility repricing."
+  },
+  {
+    "record_id": 487,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "North America",
+    "prev_month_value": -20.4,
+    "current_month_value": -26.6,
+    "difference": -6.2,
+    "commentary": "Impact of 6 from Summit Retail due to ratings migration."
+  },
+  {
+    "record_id": 488,
+    "area": "Treasury",
+    "sector": "XVA",
+    "segment": "Capital Valuation Adjustment",
+    "prev_month_value": -3.3,
+    "current_month_value": -5.5,
+    "difference": -2.2,
+    "commentary": "Impact of 2 from Northstar Energy due to volatility repricing."
+  },
+  {
+    "record_id": 489,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "EMEA Structured FX",
+    "prev_month_value": -13.3,
+    "current_month_value": -25.1,
+    "difference": -11.8,
+    "commentary": "Impact of 12 from Acme Corp due to wider credit spreads."
+  },
+  {
+    "record_id": 490,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": -21.6,
+    "current_month_value": -13.1,
+    "difference": 8.5,
+    "commentary": "Impact of 9 from Cedar Healthcare due to market data correction."
+  },
+  {
+    "record_id": 491,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "GBP Rates",
+    "prev_month_value": -34.2,
+    "current_month_value": -45.1,
+    "difference": -10.9,
+    "commentary": "Impact of 11 from Redwood Logistics due to tighter credit spreads."
+  },
+  {
+    "record_id": 492,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "EMEA Structured FX",
+    "prev_month_value": -19.8,
+    "current_month_value": -12.8,
+    "difference": 7.0,
+    "commentary": "Impact of 7 from Harbor Aviation due to portfolio unwind."
+  },
+  {
+    "record_id": 493,
+    "area": "Banking",
+    "sector": "Corporate Lending",
+    "segment": "Asia Pacific Corporates",
+    "prev_month_value": -39.0,
+    "current_month_value": -23.0,
+    "difference": 16.0,
+    "commentary": "Impact of 16 from Meridian Telecom due to new trade activity."
+  },
+  {
+    "record_id": 494,
+    "area": "Corporate Centre",
+    "sector": "Pension",
+    "segment": "UK Pension Fund",
+    "prev_month_value": -10.7,
+    "current_month_value": -25.2,
+    "difference": -14.5,
+    "commentary": "Impact of 15 from Summit Retail due to new trade activity."
+  },
+  {
+    "record_id": 495,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "European Real Estate",
+    "prev_month_value": -33.5,
+    "current_month_value": -45.3,
+    "difference": -11.8,
+    "commentary": "Impact of 12 from Vantage Media due to discount curve move."
+  },
+  {
+    "record_id": 496,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "GBP Rates",
+    "prev_month_value": -30.2,
+    "current_month_value": -18.2,
+    "difference": 12.0,
+    "commentary": "Impact of 12 from Northstar Energy due to market data correction."
+  },
+  {
+    "record_id": 497,
+    "area": "Markets",
+    "sector": "Foreign Exchange",
+    "segment": "G10 Options",
+    "prev_month_value": 12.4,
+    "current_month_value": 22.6,
+    "difference": 10.2,
+    "commentary": "Impact of 10 from Summit Retail due to market data correction."
+  },
+  {
+    "record_id": 498,
+    "area": "Banking",
+    "sector": "Real Estate Finance",
+    "segment": "US Real Estate",
+    "prev_month_value": -5.1,
+    "current_month_value": 5.7,
+    "difference": 10.8,
+    "commentary": "Impact of 11 from Helios Manufacturing due to new trade activity."
+  },
+  {
+    "record_id": 499,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "EUR Inflation",
+    "prev_month_value": -18.4,
+    "current_month_value": -20.5,
+    "difference": -2.1,
+    "commentary": "Impact of 2 from Acme Corp due to portfolio unwind."
+  },
+  {
+    "record_id": 500,
+    "area": "Markets",
+    "sector": "Rates",
+    "segment": "Emerging Markets Rates",
+    "prev_month_value": -33.9,
+    "current_month_value": -41.0,
+    "difference": -7.1,
+    "commentary": "Impact of 7 from Apex Infrastructure due to new trade activity."
+  }
+]

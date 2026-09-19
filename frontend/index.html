@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Valuation Commentary Reviewer</title>
+<link rel="stylesheet" href="/static/styles.css?v=8">
+</head>
+<body>
+<header class="topbar">
+  <div>
+    <div class="eyebrow">VALUATION CONTROL</div>
+    <h1>Commentary Reviewer</h1>
+  </div>
+  <div class="top-actions">
+    <span id="rowCount">Loading...</span>
+  </div>
+</header>
+
+<main class="page">
+  <section class="intro">
+    <div>
+      <h2>Commentary inventory</h2>
+      <p>Update the commentary in each row and evaluate it against the valuation movement.</p>
+    </div>
+    <div class="weights">
+      <span><b>50%</b> explains &gt;80% of move</span>
+      <span><b>15%</b> driver</span>
+      <span><b>10%</b> quantification</span>
+      <span><b>10%</b> attribution</span>
+      <span><b>10%</b> specificity</span>
+      <span><b>5%</b> clarity</span>
+    </div>
+  </section>
+
+  <section class="toolbar card">
+    <input id="search" placeholder="Search record, area, sector, segment or commentary...">
+    <select id="gradeFilter">
+      <option value="">All results</option>
+      <option value="Good">Good</option>
+      <option value="Average">Average</option>
+      <option value="Needs work">Needs work</option>
+    </select>
+    <button id="reload" class="secondary">Reload</button>
+  </section>
+
+  <div class="table-wrap card">
+    <table>
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Context</th>
+          <th>Prev</th>
+          <th>Current</th>
+          <th>Move</th>
+          <th class="commentary-col">Commentary — edit before evaluating</th>
+          <th>AI score</th>
+          <th>Score details &amp; how to improve</th>
+        </tr>
+      </thead>
+      <tbody id="tableBody"></tbody>
+    </table>
+  </div>
+
+  <div class="pagination">
+    <button id="prevPage" class="secondary">← Previous</button>
+    <span id="pageInfo"></span>
+    <button id="nextPage" class="secondary">Next →</button>
+  </div>
+</main>
+<script src="/static/app.js?v=8"></script>
+</body>
+</html>
