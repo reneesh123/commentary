@@ -1,4 +1,4 @@
-# Valuation Commentary Reviewer — 500-row FastAPI + OpenAI version
+# Commentary Reviewer — 500-row FastAPI + OpenAI version
 
 This version loads the supplied `valuation-commentary-sample-500.xlsx` into
 `data/commentaries.json` and presents the 500 commentaries in a proper web
